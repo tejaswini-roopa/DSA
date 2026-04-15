@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About This Repository
 
-> "Consistency beats intensity. One problem a day keeps unemployment away."
+> "Consistency beats intensity. My GitHub streak is the only streak I maintain. 💀"
 
 This repository contains my **daily DSA practice** solutions written in **Java**, organized topic by topic.
 Every solution includes clean code with proper naming conventions, comments, and test cases.
