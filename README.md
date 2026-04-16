@@ -31,7 +31,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | # | Topic | Problems Solved | Status |
 |---|-------|----------------|--------|
-| 1 | Arrays | 3 | 🟡 In Progress |
+| 1 | Arrays | 4 | 🟡 In Progress |
 | 2 | Strings | 0 | 🔴 Not Started |
 | 3 | Linked List | 0 | 🔴 Not Started |
 | 4 | Stack & Queue | 0 | 🔴 Not Started |
@@ -52,6 +52,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | Merge Overlapping Intervals | InterviewBit | 🟡 Medium | [View](./Arrays/MergeOverlappingIntervals.java) |
 | 2 | Trapping Rain Water | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
 | 3 | Insert Interval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
+| 4 | Rotate Matrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
 
 ### 📁 Strings
 | # | Problem | Platform | Difficulty | Solution |
@@ -86,7 +87,8 @@ Every solution includes clean code with proper naming conventions, comments, and
 |------|---------|-------|----------|
 | 2026-04-15 | Insert Interval | Arrays | InterviewBit |
 | 2026-04-15 | Trapping Rain Water | Arrays | InterviewBit |
-| 2026-04-14 | Merge Overlapping Intervals | Arrays | InterviewBit |
+| 2026-04-16 | Merge Overlapping Intervals | Arrays | InterviewBit |
+| 2026-04-16 | Rotate Matrix | Arrays | InterviewBit |
 
 ---
 
