@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-4-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-3-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -32,7 +32,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | # | Topic | Problems Solved | Status |
 |---|-------|----------------|--------|
-| 1 | Arrays | 4 | 🟡 In Progress |
+| 1 | Arrays | 3 | 🟡 In Progress |
 | 2 | Strings | 0 | 🔴 Not Started |
 | 3 | LinkedList | 0 | 🔴 Not Started |
 | 4 | StackAndQueue | 0 | 🔴 Not Started |
@@ -52,9 +52,8 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | InsertInterval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
-| 2 | MergeOverlappingIntervals | InterviewBit | 🟡 Medium | [View](./Arrays/MergeOverlappingIntervals.java) |
-| 3 | RotateMatrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
-| 4 | TrappingRainWater | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
+| 2 | RotateMatrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
+| 3 | TrappingRainWater | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
 
 ### 📁 Strings
 | # | Problem | Platform | Difficulty | Solution |
@@ -109,7 +108,6 @@ Every solution includes clean code with proper naming conventions, comments, and
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
 | 2026-04-17 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-17 | MergeOverlappingIntervals | Arrays | InterviewBit |
 | 2026-04-17 | RotateMatrix | Arrays | InterviewBit |
 | 2026-04-17 | TrappingRainWater | Arrays | InterviewBit |
 
