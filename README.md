@@ -55,7 +55,6 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | InsertInterval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
 | 2 | RotateMatrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
 | 3 | TrappingRainWater | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
-| 4 | DivideTwoInteger | LeetCode | 🟡 Medium | [View](./BitManipulation/DivideTwoInteger.java) |
 
 ### 📁 Strings
 | # | Problem | Platform | Difficulty | Solution |
