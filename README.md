@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-4-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -15,7 +16,7 @@
 
 ## 👩‍💻 About This Repository
 
-> "Consistency beats intensity. My GitHub streak is the only streak I maintain. 💀"
+> "My GitHub streak is the only streak I maintain. 💀"
 
 This repository contains my **daily DSA practice** solutions written in **Java**, organized topic by topic.
 Every solution includes clean code with proper naming conventions, comments, and test cases.
@@ -33,14 +34,15 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|-------|----------------|--------|
 | 1 | Arrays | 4 | 🟡 In Progress |
 | 2 | Strings | 0 | 🔴 Not Started |
-| 3 | Linked List | 0 | 🔴 Not Started |
-| 4 | Stack & Queue | 0 | 🔴 Not Started |
+| 3 | LinkedList | 0 | 🔴 Not Started |
+| 4 | StackAndQueue | 0 | 🔴 Not Started |
 | 5 | Trees | 0 | 🔴 Not Started |
-| 6 | Binary Search | 0 | 🔴 Not Started |
-| 7 | Dynamic Programming | 0 | 🔴 Not Started |
+| 6 | BinarySearch | 0 | 🔴 Not Started |
+| 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
-| 9 | Recursion & Backtracking | 0 | 🔴 Not Started |
+| 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
+
 
 ---
 
@@ -49,22 +51,22 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 Arrays
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | Merge Overlapping Intervals | InterviewBit | 🟡 Medium | [View](./Arrays/MergeOverlappingIntervals.java) |
-| 2 | Trapping Rain Water | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
-| 3 | Insert Interval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
-| 4 | Rotate Matrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
+| 1 | InsertInterval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
+| 2 | MergeOverlappingIntervals | InterviewBit | 🟡 Medium | [View](./Arrays/MergeOverlappingIntervals.java) |
+| 3 | RotateMatrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
+| 4 | TrappingRainWater | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
 
 ### 📁 Strings
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
 
-### 📁 Linked List
+### 📁 LinkedList
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
 
-### 📁 Stack & Queue
+### 📁 StackAndQueue
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
@@ -74,10 +76,31 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
 
-### 📁 Dynamic Programming
+### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
+
+### 📁 DynamicProgramming
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| - | Coming Soon | - | - | - |
+
+### 📁 Graphs
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| - | Coming Soon | - | - | - |
+
+### 📁 RecursionAndBacktracking
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| - | Coming Soon | - | - | - |
+
+### 📁 Greedy
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| - | Coming Soon | - | - | - |
+
 
 ---
 
@@ -85,16 +108,17 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-15 | Insert Interval | Arrays | InterviewBit |
-| 2026-04-15 | Trapping Rain Water | Arrays | InterviewBit |
-| 2026-04-16 | Merge Overlapping Intervals | Arrays | InterviewBit |
-| 2026-04-16 | Rotate Matrix | Arrays | InterviewBit |
+| 2026-04-17 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-17 | MergeOverlappingIntervals | Arrays | InterviewBit |
+| 2026-04-17 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-17 | TrappingRainWater | Arrays | InterviewBit |
+
 
 ---
 
 ## 🛠️ How to Run
 
-```bash
+\`\`\`bash
 # Clone the repo
 git clone https://github.com/tejaswini-roopa/DSA.git
 
@@ -104,17 +128,20 @@ cd Arrays
 # Compile and run
 javac MergeOverlappingIntervals.java
 java MergeOverlappingIntervals
-```
+\`\`\`
 
 ---
 
 ## 🌱 My Approach to Each Problem
 
- 1. Every solution file follows this structure:
- 2. Problem Understanding (comment)
- 3. Approach / Logic (comment)
- 4. Clean Code with proper naming conventions
- 5. Multiple Test Cases in main()
+Every solution file follows this structure:
+\`\`\`
+1. Problem Understanding  (comment)
+2. Approach / Logic       (comment)
+3. Clean Code with proper naming conventions
+4. Multiple Test Cases in main()
+\`\`\`
+
 ---
 
 ## 📈 GitHub Stats
@@ -139,4 +166,3 @@ java MergeOverlappingIntervals
 ---
 
 <p align="center">⭐ Star this repo if you find it helpful! Keep grinding 💪</p>
-
