@@ -5,21 +5,28 @@ TOPICS = [
     "Arrays", "Strings", "LinkedList",
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
-    "RecursionAndBacktracking", "Greedy"
+    "RecursionAndBacktracking", "Greedy",
+    "BitManipulation"
 ]
 
 DIFFICULTY = {
+    # Arrays
     "MergeOverlappingIntervals" : "🟡 Medium",
     "TrappingRainWater"         : "🔴 Hard",
     "InsertInterval"            : "🟡 Medium",
     "RotateMatrix"              : "🟡 Medium",
+    # BitManipulation
+    "DivideTwoIntegers"         : "🔴 Hard",
 }
 
 PLATFORM = {
+    # Arrays
     "MergeOverlappingIntervals" : "InterviewBit",
     "TrappingRainWater"         : "InterviewBit",
     "InsertInterval"            : "InterviewBit",
     "RotateMatrix"              : "InterviewBit",
+    # BitManipulation
+    "DivideTwoIntegers"         : "LeetCode",
 }
 
 def get_problems():
@@ -61,12 +68,42 @@ def build_topic_tables(problems):
     return f"## 🗂️ Topic Wise Problems\n{sections}"
 
 def build_daily_log(problems):
-    today = datetime.now().strftime("%Y-%m-%d")
-    rows = ""
+    log_file = ".github/scripts/daily_log.txt"
+    today    = datetime.now().strftime("%Y-%m-%d")
+
+    # Load existing log
+    existing_logs = []
+    if os.path.exists(log_file):
+        with open(log_file, "r") as f:
+            existing_logs = f.readlines()
+
+    # Find already logged problem names
+    logged_names = set()
+    for line in existing_logs:
+        parts = line.strip().split("|")
+        if len(parts) >= 3:
+            logged_names.add(parts[2].strip())
+
+    # Add new problems to log
+    new_entries = []
     for topic, files in problems.items():
         for name in files:
-            platform = PLATFORM.get(name, "InterviewBit")
-            rows += f"| {today} | {name} | {topic} | {platform} |\n"
+            if name not in logged_names:
+                platform = PLATFORM.get(name, "InterviewBit")
+                new_entries.append(f"{today} | {name} | {topic} | {platform}\n")
+
+    # Save updated log
+    all_logs = new_entries + existing_logs
+    with open(log_file, "w") as f:
+        f.writelines(all_logs)
+
+    # Build table rows
+    rows = ""
+    for line in all_logs:
+        parts = line.strip().split("|")
+        if len(parts) == 4:
+            rows += f"| {parts[0].strip()} | {parts[1].strip()} | {parts[2].strip()} | {parts[3].strip()} |\n"
+
     return f"""## 📅 Daily Log
 
 | Date | Problem | Topic | Platform |
