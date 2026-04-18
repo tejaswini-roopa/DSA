@@ -17,6 +17,7 @@ DIFFICULTY = {
     "RotateMatrix"              : "🟡 Medium",
     # BitManipulation
     "DivideTwoIntegers"         : "🔴 Hard",
+    "SingleNumber"              : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -27,6 +28,7 @@ PLATFORM = {
     "RotateMatrix"              : "InterviewBit",
     # BitManipulation
     "DivideTwoIntegers"         : "LeetCode",
+    "SingleNumber"              : "InterviewBit",
 }
 
 def get_problems():
