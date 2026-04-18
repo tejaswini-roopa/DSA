@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-4-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-5-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -42,7 +42,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 8 | Graphs | 0 | 🔴 Not Started |
 | 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
-| 11 | BitManipulation | 1 | 🟡 In Progress |
+| 11 | BitManipulation | 2 | 🟡 In Progress |
 
 
 ---
@@ -105,6 +105,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | DivideTwoIntegers | LeetCode | 🔴 Hard | [View](./BitManipulation/DivideTwoIntegers.java) |
+| 2 | SingleNumber | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumber.java) |
 
 
 ---
@@ -113,10 +114,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-17 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-17 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-17 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-17 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-18 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-18 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-18 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-18 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-18 | SingleNumber | BitManipulation | InterviewBit |
 
 
 ---
