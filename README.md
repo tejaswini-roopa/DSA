@@ -105,7 +105,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | DivideTwoIntegers | LeetCode | 🔴 Hard | [View](./BitManipulation/DivideTwoIntegers.java) |
-| 2 | NumberOf1Bits | InterviewBit | 🟡 Medium | [View](./BitManipulation/NumberOf1Bits.java) |
+| 2 | NumberOf1Bits | LeetCode | 🟢 Easy | [View](./BitManipulation/NumberOf1Bits.java) |
 | 3 | SingleNumber | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumber.java) |
 
 
@@ -119,7 +119,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-04-19 | RotateMatrix | Arrays | InterviewBit |
 | 2026-04-19 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-04-19 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-19 | NumberOf1Bits | BitManipulation | InterviewBit |
+| 2026-04-19 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-04-19 | SingleNumber | BitManipulation | InterviewBit |
 
 
