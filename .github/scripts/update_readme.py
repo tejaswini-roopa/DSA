@@ -18,6 +18,7 @@ DIFFICULTY = {
     # BitManipulation
     "DivideTwoIntegers"         : "🔴 Hard",
     "SingleNumber"              : "🟡 Medium",
+    "NumberOf1Bits"             : "🟢 Easy"
 }
 
 PLATFORM = {
@@ -29,6 +30,7 @@ PLATFORM = {
     # BitManipulation
     "DivideTwoIntegers"         : "LeetCode",
     "SingleNumber"              : "InterviewBit",
+    "NumberOf1Bits"             : "LeetCode",
 }
 
 def get_problems():
