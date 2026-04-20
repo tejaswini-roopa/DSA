@@ -107,7 +107,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | DivideTwoIntegers | LeetCode | 🔴 Hard | [View](./BitManipulation/DivideTwoIntegers.java) |
 | 2 | NumberOf1Bits | LeetCode | 🟢 Easy | [View](./BitManipulation/NumberOf1Bits.java) |
 | 3 | SingleNumber | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumber.java) |
-| 4 | SingleNumberIII | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumberIII.java) |
+| 4 | SingleNumberIII | LeetCode | 🟡 Medium | [View](./BitManipulation/SingleNumberIII.java) |
 
 
 ---
@@ -122,7 +122,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-04-20 | DivideTwoIntegers | BitManipulation | LeetCode |
 | 2026-04-20 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-04-20 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-20 | SingleNumberIII | BitManipulation | InterviewBit |
+| 2026-04-20 | SingleNumberIII | BitManipulation | LeetCode |
 
 
 ---
