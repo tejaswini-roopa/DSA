@@ -113,7 +113,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 ModularArithmetic
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | ArrayArranger | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/ArrayArranger.java) |
+| 1 | ArrayArranger | LeetCode | 🟡 Medium | [View](./ModularArithmetic/ArrayArranger.java) |
 
 
 ---
@@ -129,7 +129,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-04-21 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-04-21 | SingleNumber | BitManipulation | InterviewBit |
 | 2026-04-21 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-21 | ArrayArranger | ModularArithmetic | InterviewBit |
+| 2026-04-21 | ArrayArranger | ModularArithmetic | LeetCode |
 
 
 ---
@@ -162,7 +162,7 @@ Every solution file follows this structure:
 
 ---
 
-## 📈 GitHub Stats
+
 
 ## 📈 GitHub Stats
 
