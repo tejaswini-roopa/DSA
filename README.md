@@ -116,13 +116,13 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-20 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-20 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-20 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-20 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-20 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-20 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-20 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-21 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-21 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-21 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-21 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-21 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-21 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-21 | SingleNumberIII | BitManipulation | LeetCode |
 
 
 ---
