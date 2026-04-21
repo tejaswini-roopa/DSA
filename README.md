@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-7-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-8-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -43,6 +43,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
+| 12 | ModularArithmetic | 1 | 🟡 In Progress |
 
 
 ---
@@ -109,6 +110,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 3 | SingleNumber | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumber.java) |
 | 4 | SingleNumberIII | LeetCode | 🟡 Medium | [View](./BitManipulation/SingleNumberIII.java) |
 
+### 📁 ModularArithmetic
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | ArrayArranger | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/ArrayArranger.java) |
+
 
 ---
 
@@ -123,6 +129,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-04-21 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-04-21 | SingleNumber | BitManipulation | InterviewBit |
 | 2026-04-21 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-21 | ArrayArranger | ModularArithmetic | InterviewBit |
 
 
 ---
