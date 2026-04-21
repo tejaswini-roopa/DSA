@@ -35,6 +35,7 @@ PLATFORM = {
     "SingleNumber"              : "InterviewBit",
     "NumberOf1Bits"             : "LeetCode",
     "SingleNumberIII"           : "LeetCode",
+    "ArrayArranger"             : "LeetCode",
     
 
 }
@@ -196,7 +197,7 @@ Every solution file follows this structure:
 
 ---
 
-## 📈 GitHub Stats
+
 
 ## 📈 GitHub Stats
 
