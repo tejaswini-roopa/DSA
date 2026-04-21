@@ -6,7 +6,7 @@ TOPICS = [
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
     "RecursionAndBacktracking", "Greedy",
-    "BitManipulation"
+    "BitManipulation","ModularArithmetic"
 ]
 
 DIFFICULTY = {
@@ -20,6 +20,8 @@ DIFFICULTY = {
     "SingleNumber"              : "🟡 Medium",
     "NumberOf1Bits"             : "🟢 Easy",
     "SingleNumberIII"           : "🟡 Medium",
+    #ModularArithmetic
+    "ArrayArranger"             : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -33,6 +35,8 @@ PLATFORM = {
     "SingleNumber"              : "InterviewBit",
     "NumberOf1Bits"             : "LeetCode",
     "SingleNumberIII"           : "LeetCode",
+    
+
 }
 
 def get_problems():
