@@ -123,16 +123,15 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-|2026-04-15 | MergeOverlappingIntervals | Arrays | InterviewBit
-|2026-04-15 | TrappingRainWater | Arrays | InterviewBit
-|2026-04-16 | InsertInterval | Arrays | InterviewBit
-|2026-04-17 | RotateMatrix | Arrays | InterviewBit
-|2026-04-18 | DivideTwoIntegers | BitManipulation | LeetCode
-|2026-04-18 | SingleNumber | BitManipulation | InterviewBit
-|2026-04-19 | NumberOf1Bits | BitManipulation | LeetCode
-|2026-04-19 | SingleNumberIII | BitManipulation | LeetCode
-|2026-04-20 | ArrayArranger | ModularArithmetic | InterviewBit
-|2026-04-22 | MaximumGcd | ModularArithmetic | InterviewBit
+| 2026-04-22 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-22 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-22 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-22 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-22 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-22 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-22 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-22 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-04-22 | MaximumGcd | ModularArithmetic | InterviewBit |
 
 
 ---
