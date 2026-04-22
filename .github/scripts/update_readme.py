@@ -89,14 +89,14 @@ def build_daily_log(problems):
         with open(log_file, "r") as f:
             existing_logs = f.readlines()
 
-    # Find already logged problem names
+    # Find already logged problem names with their ORIGINAL dates
     logged_names = set()
     for line in existing_logs:
         parts = line.strip().split("|")
         if len(parts) >= 3:
-            logged_names.add(parts[2].strip())
+            logged_names.add(parts[1].strip())  # index 1 = problem name
 
-    # Add new problems to log
+    # Add only NEW problems with today's date
     new_entries = []
     for topic, files in problems.items():
         for name in files:
@@ -104,8 +104,10 @@ def build_daily_log(problems):
                 platform = PLATFORM.get(name, "InterviewBit")
                 new_entries.append(f"{today} | {name} | {topic} | {platform}\n")
 
+    # Append new entries BELOW existing ones (preserve old dates)
+    all_logs = existing_logs + new_entries
+
     # Save updated log
-    all_logs = new_entries + existing_logs
     with open(log_file, "w") as f:
         f.writelines(all_logs)
 
