@@ -23,6 +23,7 @@ DIFFICULTY = {
     #ModularArithmetic
     "ArrayArranger"             : "🟡 Medium",
     "MaximumGcd"                : "🟡 Medium",
+    "Pubg"                      : "🟡 Medium"
 }
 
 PLATFORM = {
@@ -38,6 +39,7 @@ PLATFORM = {
     "SingleNumberIII"           : "LeetCode",
     "ArrayArranger"             : "LeetCode",
     "MaximumGcd"                : "InterviewBit",
+    "Pubg"                      : "InterviewBit",
 
 }
 
