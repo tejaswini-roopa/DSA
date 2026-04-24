@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-10-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-11-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -43,7 +43,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
-| 12 | ModularArithmetic | 3 | 🟡 In Progress |
+| 12 | ModularArithmetic | 4 | 🟡 In Progress |
 
 
 ---
@@ -114,8 +114,9 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | ArrayArranger | LeetCode | 🟡 Medium | [View](./ModularArithmetic/ArrayArranger.java) |
-| 2 | MaximumGcd | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/MaximumGcd.java) |
-| 3 | Pubg | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/Pubg.java) |
+| 2 | CountDivisors | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/CountDivisors.java) |
+| 3 | MaximumGcd | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/MaximumGcd.java) |
+| 4 | Pubg | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/Pubg.java) |
 
 
 ---
@@ -124,16 +125,17 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-23 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-23 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-23 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-23 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-23 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-23 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-23 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-23 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-04-23 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-23 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-04-24 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-24 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-24 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-24 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-24 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-24 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-24 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-24 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-04-24 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-04-24 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-04-24 | Pubg | ModularArithmetic | InterviewBit |
 
 
 ---
