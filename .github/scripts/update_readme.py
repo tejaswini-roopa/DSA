@@ -23,7 +23,8 @@ DIFFICULTY = {
     #ModularArithmetic
     "ArrayArranger"             : "🟡 Medium",
     "MaximumGcd"                : "🟡 Medium",
-    "Pubg"                      : "🟡 Medium"
+    "Pubg"                      : "🟡 Medium",
+    "CountDivisors"             : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -40,7 +41,7 @@ PLATFORM = {
     "ArrayArranger"             : "LeetCode",
     "MaximumGcd"                : "InterviewBit",
     "Pubg"                      : "InterviewBit",
-
+    "CountDivisors"             : "InterviewBit",
 }
 
 def get_problems():
