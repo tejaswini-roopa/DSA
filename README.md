@@ -116,7 +116,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | ArrayArranger | LeetCode | 🟡 Medium | [View](./ModularArithmetic/ArrayArranger.java) |
 | 2 | CountDivisors | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/CountDivisors.java) |
 | 3 | MaximumGcd | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/MaximumGcd.java) |
-| 4 | PrimeSum | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/PrimeSum.java) |
+| 4 | PrimeSum | GeeksForGeeks | 🟡 Medium | [View](./ModularArithmetic/PrimeSum.java) |
 | 5 | Pubg | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/Pubg.java) |
 
 
@@ -136,7 +136,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-04-26 | ArrayArranger | ModularArithmetic | LeetCode |
 | 2026-04-26 | CountDivisors | ModularArithmetic | InterviewBit |
 | 2026-04-26 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-26 | PrimeSum | ModularArithmetic | InterviewBit |
+| 2026-04-26 | PrimeSum | ModularArithmetic | GeeksForGeeks |
 | 2026-04-26 | Pubg | ModularArithmetic | InterviewBit |
 
 
