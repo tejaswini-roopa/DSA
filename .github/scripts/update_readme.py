@@ -25,6 +25,7 @@ DIFFICULTY = {
     "MaximumGcd"                : "🟡 Medium",
     "Pubg"                      : "🟡 Medium",
     "CountDivisors"             : "🟡 Medium",
+    "PrimeSum"                  : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -42,6 +43,7 @@ PLATFORM = {
     "MaximumGcd"                : "InterviewBit",
     "Pubg"                      : "InterviewBit",
     "CountDivisors"             : "InterviewBit",
+    "PrimeSum"                  : "GeeksForGeeks",
 }
 
 def get_problems():
