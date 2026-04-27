@@ -163,7 +163,7 @@ java MergeOverlappingIntervals
 Every solution file follows this structure:
 \`\`\`
 1. Problem Understanding  (comment)
-2. Approach / Logic       (comment)
+2. Approach / Logics.      (comment)
 3. Clean Code with proper naming conventions
 4. Multiple Test Cases in main()
 \`\`\`
