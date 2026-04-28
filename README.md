@@ -23,7 +23,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 - 🎯 **Goal:** Solve and push at least one DSA problem every day
 - 🗂️ **Structure:** Organized by topics
-- 💡 **Platforms:** InterviewBit, LeetCode, GeeksForGeeks, CodeChef
+- 💡 **Platforms:** InterviewBit, LeetCode, GeeksForGeeks
 - ☕ **Language:** Java
 
 ---
@@ -126,18 +126,18 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-27 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-27 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-27 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-27 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-27 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-27 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-27 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-27 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-04-27 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-04-27 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-27 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-04-27 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-04-28 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-28 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-28 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-28 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-28 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-28 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-28 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-28 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-04-28 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-04-28 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-04-28 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-04-28 | Pubg | ModularArithmetic | InterviewBit |
 
 
 ---
