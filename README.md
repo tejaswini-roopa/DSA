@@ -23,7 +23,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 - 🎯 **Goal:** Solve and push at least one DSA problem every day
 - 🗂️ **Structure:** Organized by topics
-- 💡 **Platforms:** InterviewBit, LeetCode, GeeksForGeeks, CodeChef
+- 💡 **Platforms:** InterviewBit, LeetCode, GeeksForGeeks
 - ☕ **Language:** Java
 
 ---
