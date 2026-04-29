@@ -40,10 +40,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 6 | BinarySearch | 0 | 🔴 Not Started |
 | 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
-| 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
+| 9 | Backtracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
+| 13 | Recursion | 0 | 🔴 Not Started |
 
 
 ---
