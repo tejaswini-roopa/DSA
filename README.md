@@ -40,11 +40,10 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 6 | BinarySearch | 0 | 🔴 Not Started |
 | 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
-| 9 | Backtracking | 0 | 🔴 Not Started |
+| 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
-| 13 | Recursion | 0 | 🔴 Not Started |
 
 
 ---
@@ -127,18 +126,18 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-28 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-28 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-28 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-28 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-28 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-28 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-28 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-28 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-04-28 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-04-28 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-28 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-04-28 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-04-29 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-29 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-29 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-29 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-29 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-29 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-29 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-29 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-04-29 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-04-29 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-04-29 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-04-29 | Pubg | ModularArithmetic | InterviewBit |
 
 
 ---
