@@ -126,18 +126,18 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-29 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-29 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-29 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-29 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-29 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-29 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-29 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-29 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-04-29 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-04-29 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-29 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-04-29 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-04-30 | InsertInterval | Arrays | InterviewBit |
+| 2026-04-30 | RotateMatrix | Arrays | InterviewBit |
+| 2026-04-30 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-04-30 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-04-30 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-04-30 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-04-30 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-04-30 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-04-30 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-04-30 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-04-30 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-04-30 | Pubg | ModularArithmetic | InterviewBit |
 
 
 ---
@@ -161,12 +161,12 @@ java MergeOverlappingIntervals
 ## 🌱 My Approach to Each Problem
 
 Every solution file follows this structure:
-
+\`\`\`
 1. Problem Understanding  (comment)
 2. Approach / Logic       (comment)
 3. Clean Code with proper naming conventions
 4. Multiple Test Cases in main()
-
+\`\`\`
 
 ---
 
