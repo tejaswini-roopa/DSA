@@ -5,8 +5,8 @@ TOPICS = [
     "Arrays", "Strings", "LinkedList",
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
-    "RecursionAndBacktracking", "Greedy",
-    "BitManipulation","ModularArithmetic"
+    "Backtracking", "Greedy",
+    "BitManipulation","ModularArithmetic","Recursion",
 ]
 
 DIFFICULTY = {
