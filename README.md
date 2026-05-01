@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-12-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-13-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -40,10 +40,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 6 | BinarySearch | 0 | 🔴 Not Started |
 | 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
-| 9 | RecursionAndBacktracking | 0 | 🔴 Not Started |
+| 9 | Backtracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
+| 13 | Recursion | 1 | 🟡 In Progress |
 
 
 ---
@@ -92,7 +93,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
 
-### 📁 RecursionAndBacktracking
+### 📁 Backtracking
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
@@ -119,6 +120,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 4 | PrimeSum | GeeksForGeeks | 🟡 Medium | [View](./ModularArithmetic/PrimeSum.java) |
 | 5 | Pubg | InterviewBit | 🟡 Medium | [View](./ModularArithmetic/Pubg.java) |
 
+### 📁 Recursion
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | ImplementPowerFunction | InterviewBit | 🟡 Medium | [View](./Recursion/ImplementPowerFunction.java) |
+
 
 ---
 
@@ -138,6 +144,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-01 | MaximumGcd | ModularArithmetic | InterviewBit |
 | 2026-05-01 | PrimeSum | ModularArithmetic | GeeksForGeeks |
 | 2026-05-01 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-01 | ImplementPowerFunction | Recursion | InterviewBit |
 
 
 ---
