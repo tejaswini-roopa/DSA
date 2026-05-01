@@ -26,6 +26,7 @@ DIFFICULTY = {
     "Pubg"                      : "🟡 Medium",
     "CountDivisors"             : "🟡 Medium",
     "PrimeSum"                  : "🟡 Medium",
+    "ImplementPowerFunction"    : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -44,6 +45,7 @@ PLATFORM = {
     "Pubg"                      : "InterviewBit",
     "CountDivisors"             : "InterviewBit",
     "PrimeSum"                  : "GeeksForGeeks",
+    "ImplementPowerFunction"    : "InterviewBit",
 }
 
 def get_problems():
