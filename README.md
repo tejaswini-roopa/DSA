@@ -126,18 +126,18 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-04-30 | InsertInterval | Arrays | InterviewBit |
-| 2026-04-30 | RotateMatrix | Arrays | InterviewBit |
-| 2026-04-30 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-04-30 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-04-30 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-04-30 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-04-30 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-04-30 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-04-30 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-04-30 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-04-30 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-04-30 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-01 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-01 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-01 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-01 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-01 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-01 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-01 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-01 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-01 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-01 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-01 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-01 | Pubg | ModularArithmetic | InterviewBit |
 
 
 ---
