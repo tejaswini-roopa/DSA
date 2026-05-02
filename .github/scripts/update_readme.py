@@ -27,6 +27,7 @@ DIFFICULTY = {
     "CountDivisors"             : "🟡 Medium",
     "PrimeSum"                  : "🟡 Medium",
     "ImplementPowerFunction"    : "🟡 Medium",
+    "PrintReverseString"        : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -46,6 +47,7 @@ PLATFORM = {
     "CountDivisors"             : "InterviewBit",
     "PrimeSum"                  : "GeeksForGeeks",
     "ImplementPowerFunction"    : "InterviewBit",
+    "PrintReverseString"        : "InterviewBit",
 }
 
 def get_problems():
