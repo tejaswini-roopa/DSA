@@ -124,7 +124,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | ImplementPowerFunction | InterviewBit | 🟡 Medium | [View](./Recursion/ImplementPowerFunction.java) |
-| 2 | PrintReverseString | InterviewBit | 🟡 Medium | [View](./Recursion/PrintReverseString.java) |
+| 2 | PrintReverseString | InterviewBit | 🟢 Easy | [View](./Recursion/PrintReverseString.java) |
 
 
 ---
