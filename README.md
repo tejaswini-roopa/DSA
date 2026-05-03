@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-14-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-15-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -44,7 +44,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 10 | Greedy | 0 | 🔴 Not Started |
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
-| 13 | Recursion | 2 | 🟡 In Progress |
+| 13 | Recursion | 3 | 🟡 In Progress |
 
 
 ---
@@ -125,6 +125,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | ImplementPowerFunction | InterviewBit | 🟡 Medium | [View](./Recursion/ImplementPowerFunction.java) |
 | 2 | PrintReverseString | InterviewBit | 🟢 Easy | [View](./Recursion/PrintReverseString.java) |
+| 3 | TowerOfHanoi | InterviewBit | 🟡 Medium | [View](./Recursion/TowerOfHanoi.java) |
 
 
 ---
@@ -133,20 +134,21 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-02 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-02 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-02 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-02 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-02 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-02 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-02 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-02 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-02 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-02 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-02 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-02 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-02 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-02 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-03 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-03 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-03 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-03 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-03 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-03 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-03 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-03 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-03 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-03 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-03 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-03 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-03 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-03 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-03 | TowerOfHanoi | Recursion | InterviewBit |
 
 
 ---
