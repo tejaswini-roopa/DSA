@@ -28,6 +28,7 @@ DIFFICULTY = {
     "PrimeSum"                  : "🟡 Medium",
     "ImplementPowerFunction"    : "🟡 Medium",
     "PrintReverseString"        : "🟢 Easy",
+    "TowersOfHanoi"             : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -48,6 +49,7 @@ PLATFORM = {
     "PrimeSum"                  : "GeeksForGeeks",
     "ImplementPowerFunction"    : "InterviewBit",
     "PrintReverseString"        : "InterviewBit",
+    "TowersOfHanoi"             : "GeeksForGeeks",
 }
 
 def get_problems():
