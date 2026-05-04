@@ -29,6 +29,7 @@ DIFFICULTY = {
     "ImplementPowerFunction"    : "🟡 Medium",
     "PrintReverseString"        : "🟢 Easy",
     "TowersOfHanoi"             : "🟡 Medium",
+    "KthSymbolInGrammar"        : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -50,6 +51,7 @@ PLATFORM = {
     "ImplementPowerFunction"    : "InterviewBit",
     "PrintReverseString"        : "InterviewBit",
     "TowersOfHanoi"             : "GeeksForGeeks",
+    "KthSymbolInGrammar"        : "InterviewBit",
 }
 
 def get_problems():
