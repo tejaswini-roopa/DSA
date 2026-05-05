@@ -135,22 +135,22 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-04 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-04 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-04 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-04 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-04 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-04 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-04 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-04 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-04 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-04 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-04 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-04 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-04 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-04 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-04 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-04 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-05 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-05 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-05 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-05 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-05 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-05 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-05 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-05 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-05 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-05 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-05 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-05 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-05 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-05 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-05 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-05 | TowerOfHanoi | Recursion | InterviewBit |
 
 
 ---
