@@ -30,6 +30,7 @@ DIFFICULTY = {
     "PrintReverseString"        : "🟢 Easy",
     "TowersOfHanoi"             : "🟡 Medium",
     "KthSymbolInGrammar"        : "🟡 Medium",
+    "MergeTwoSortedArrays"      : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -52,6 +53,7 @@ PLATFORM = {
     "PrintReverseString"        : "InterviewBit",
     "TowersOfHanoi"             : "GeeksForGeeks",
     "KthSymbolInGrammar"        : "InterviewBit",
+    "MergeTwoSortedArrays"      : "GeeksForGeeks",
 }
 
 def get_problems():
