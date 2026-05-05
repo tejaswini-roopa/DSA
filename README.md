@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-16-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-17-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -45,6 +45,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
 | 13 | Recursion | 4 | 🟡 In Progress |
+| 14 | Sorting | 1 | 🟡 In Progress |
 
 
 ---
@@ -128,6 +129,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 3 | PrintReverseString | InterviewBit | 🟢 Easy | [View](./Recursion/PrintReverseString.java) |
 | 4 | TowerOfHanoi | InterviewBit | 🟡 Medium | [View](./Recursion/TowerOfHanoi.java) |
 
+### 📁 Sorting
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
+
 
 ---
 
@@ -151,6 +157,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-05 | KthSymbolInGrammar | Recursion | InterviewBit |
 | 2026-05-05 | PrintReverseString | Recursion | InterviewBit |
 | 2026-05-05 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-05 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
 
 
 ---
