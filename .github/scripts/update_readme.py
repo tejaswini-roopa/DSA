@@ -31,6 +31,7 @@ DIFFICULTY = {
     "TowersOfHanoi"             : "🟡 Medium",
     "KthSymbolInGrammar"        : "🟡 Medium",
     "MergeTwoSortedArrays"      : "🟢 Easy",
+    "MinimumStepsUniqueArray"   : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -54,6 +55,7 @@ PLATFORM = {
     "TowersOfHanoi"             : "GeeksForGeeks",
     "KthSymbolInGrammar"        : "InterviewBit",
     "MergeTwoSortedArrays"      : "GeeksForGeeks",
+    "MinimumStepsUniqueArray"   : "LeetCode",
 }
 
 def get_problems():
