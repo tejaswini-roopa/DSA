@@ -133,7 +133,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
-| 2 | MinimumStepsUniqueArray | InterviewBit | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
+| 2 | MinimumStepsUniqueArray | LeetCode | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
 
 
 ---
@@ -159,7 +159,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-06 | PrintReverseString | Recursion | InterviewBit |
 | 2026-05-06 | TowerOfHanoi | Recursion | InterviewBit |
 | 2026-05-06 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-05-06 | MinimumStepsUniqueArray | Sorting | InterviewBit |
+| 2026-05-06 | MinimumStepsUniqueArray | Sorting | LeetCode |
 
 
 ---
