@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-17-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-18-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -45,7 +45,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
 | 13 | Recursion | 4 | 🟡 In Progress |
-| 14 | Sorting | 1 | 🟡 In Progress |
+| 14 | Sorting | 2 | 🟡 In Progress |
 
 
 ---
@@ -133,6 +133,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
+| 2 | MinimumStepsUniqueArray | InterviewBit | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
 
 
 ---
@@ -141,23 +142,24 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-05 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-05 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-05 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-05 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-05 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-05 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-05 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-05 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-05 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-05 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-05 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-05 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-05 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-05 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-05 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-05 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-05 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-06 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-06 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-06 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-06 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-06 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-06 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-06 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-06 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-06 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-06 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-06 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-06 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-06 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-06 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-06 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-06 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-06 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-06 | MinimumStepsUniqueArray | Sorting | InterviewBit |
 
 
 ---
