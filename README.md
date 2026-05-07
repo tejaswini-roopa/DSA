@@ -132,7 +132,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 Sorting
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | InversionCount | InterviewBit | 🟡 Medium | [View](./Sorting/InversionCount.java) |
+| 1 | InversionCount | GeeksForGeeks | 🟡 Medium | [View](./Sorting/InversionCount.java) |
 | 2 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
 | 3 | MinimumStepsUniqueArray | LeetCode | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
 
@@ -159,7 +159,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-07 | KthSymbolInGrammar | Recursion | InterviewBit |
 | 2026-05-07 | PrintReverseString | Recursion | InterviewBit |
 | 2026-05-07 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-07 | InversionCount | Sorting | InterviewBit |
+| 2026-05-07 | InversionCount | Sorting | GeeksForGeeks |
 | 2026-05-07 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
 | 2026-05-07 | MinimumStepsUniqueArray | Sorting | LeetCode |
 
