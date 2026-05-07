@@ -32,6 +32,7 @@ DIFFICULTY = {
     "KthSymbolInGrammar"        : "🟡 Medium",
     "MergeTwoSortedArrays"      : "🟢 Easy",
     "MinimumStepsUniqueArray"   : "🟡 Medium",
+    "InversionCount"            : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -56,6 +57,7 @@ PLATFORM = {
     "KthSymbolInGrammar"        : "InterviewBit",
     "MergeTwoSortedArrays"      : "GeeksForGeeks",
     "MinimumStepsUniqueArray"   : "LeetCode",
+    "InversionCount"            : "GeeksForGeeks",
 }
 
 def get_problems():
