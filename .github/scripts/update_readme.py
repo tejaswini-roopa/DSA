@@ -207,29 +207,23 @@ java MergeOverlappingIntervals
 
 ---
 
-## 🌱 My Approach to Each Problem
+### 🌱 My Approach to Each Problem
 
 Every solution file follows this structure:
-\`\`\`
-1. Problem Understanding  (comment)
-2. Approach / Logic       (comment)
+
+1. Problem Understanding (comment)
+2. Approach / Logic (comment)
 3. Clean Code with proper naming conventions
 4. Multiple Test Cases in main()
-\`\`\`
 
 ---
-
-
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswini-roopa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini-roopa&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejaswini-roopa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=tejaswini-roopa&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 🤝 Connect with Me
 
