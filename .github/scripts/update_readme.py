@@ -33,7 +33,7 @@ DIFFICULTY = {
     "MergeTwoSortedArrays"      : "🟢 Easy",
     "MinimumStepsUniqueArray"   : "🟡 Medium",
     "InversionCount"            : "🟡 Medium",
-    "ReversePairs.java"         : "🔴 Hard",
+    "ReversePairs"              : "🔴 Hard",
 }
 
 PLATFORM = {
@@ -59,8 +59,7 @@ PLATFORM = {
     "MergeTwoSortedArrays"      : "GeeksForGeeks",
     "MinimumStepsUniqueArray"   : "LeetCode",
     "InversionCount"            : "GeeksForGeeks",
-    "ReversePairs.java"         : "LeetCode",
-}
+    "ReversePairs"              : "LeetCode",
 }
 
 def get_problems():
