@@ -135,7 +135,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | InversionCount | GeeksForGeeks | 🟡 Medium | [View](./Sorting/InversionCount.java) |
 | 2 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
 | 3 | MinimumStepsUniqueArray | LeetCode | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
-| 4 | ReversePairs | InterviewBit | 🟡 Medium | [View](./Sorting/ReversePairs.java) |
+| 4 | ReversePairs | LeetCode | 🔴 Hard | [View](./Sorting/ReversePairs.java) |
 
 
 ---
@@ -163,7 +163,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-08 | InversionCount | Sorting | GeeksForGeeks |
 | 2026-05-08 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
 | 2026-05-08 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-08 | ReversePairs | Sorting | InterviewBit |
+| 2026-05-08 | ReversePairs | Sorting | LeetCode |
 
 
 ---
