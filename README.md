@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-20-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-21-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -45,7 +45,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 11 | BitManipulation | 4 | 🟡 In Progress |
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
 | 13 | Recursion | 4 | 🟡 In Progress |
-| 14 | Sorting | 4 | 🟡 In Progress |
+| 14 | Sorting | 5 | 🟡 In Progress |
 
 
 ---
@@ -136,6 +136,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
 | 3 | MinimumStepsUniqueArray | LeetCode | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
 | 4 | ReversePairs | LeetCode | 🔴 Hard | [View](./Sorting/ReversePairs.java) |
+| 5 | SumTheDifference | InterviewBit | 🟡 Medium | [View](./Sorting/SumTheDifference.java) |
 
 
 ---
@@ -144,26 +145,27 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-08 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-08 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-08 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-08 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-08 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-08 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-08 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-08 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-08 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-08 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-08 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-08 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-08 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-08 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-08 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-08 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-08 | InversionCount | Sorting | GeeksForGeeks |
-| 2026-05-08 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-05-08 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-08 | ReversePairs | Sorting | LeetCode |
+| 2026-05-09 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-09 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-09 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-09 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-09 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-09 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-09 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-09 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-09 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-09 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-09 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-09 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-09 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-09 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-09 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-09 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-09 | InversionCount | Sorting | GeeksForGeeks |
+| 2026-05-09 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-09 | MinimumStepsUniqueArray | Sorting | LeetCode |
+| 2026-05-09 | ReversePairs | Sorting | LeetCode |
+| 2026-05-09 | SumTheDifference | Sorting | InterviewBit |
 
 
 ---
