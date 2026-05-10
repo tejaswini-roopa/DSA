@@ -135,7 +135,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | InversionCount | GeeksForGeeks | 🟡 Medium | [View](./Sorting/InversionCount.java) |
 | 2 | MergeTwoSortedArrays | GeeksForGeeks | 🟢 Easy | [View](./Sorting/MergeTwoSortedArrays.java) |
 | 3 | MinimumStepsUniqueArray | LeetCode | 🟡 Medium | [View](./Sorting/MinimumStepsUniqueArray.java) |
-| 4 | QuickSort | InterviewBit | 🟡 Medium | [View](./Sorting/QuickSort.java) |
+| 4 | QuickSort | GeeksForGeeks | 🟡 Medium | [View](./Sorting/QuickSort.java) |
 | 5 | ReversePairs | LeetCode(493) | 🔴 Hard | [View](./Sorting/ReversePairs.java) |
 | 6 | SumTheDifference | LeetCode(891) | 🟡 Medium | [View](./Sorting/SumTheDifference.java) |
 
@@ -165,7 +165,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-10 | InversionCount | Sorting | GeeksForGeeks |
 | 2026-05-10 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
 | 2026-05-10 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-10 | QuickSort | Sorting | InterviewBit |
+| 2026-05-10 | QuickSort | Sorting | GeeksForGeeks |
 | 2026-05-10 | ReversePairs | Sorting | LeetCode(493) |
 | 2026-05-10 | SumTheDifference | Sorting | LeetCode(891) |
 
