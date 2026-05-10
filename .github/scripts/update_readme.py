@@ -35,6 +35,7 @@ DIFFICULTY = {
     "InversionCount"            : "🟡 Medium",
     "ReversePairs"              : "🔴 Hard",
     "SumTheDifference"          : "🟡 Medium",
+    "QuickSort"                 : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -62,6 +63,7 @@ PLATFORM = {
     "InversionCount"            : "GeeksForGeeks",
     "ReversePairs"              : "LeetCode(493)",
     "SumTheDifference"          : "LeetCode(891)",
+    "QuickSort"                 : "GeeksForGeeks",
 }
 
 def get_problems():
