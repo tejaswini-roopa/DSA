@@ -82,7 +82,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | SortedInsertPosition | InterviewBit | 🟡 Medium | [View](./BinarySearch/SortedInsertPosition.java) |
+| 1 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
 
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
@@ -149,7 +149,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-11 | InsertInterval | Arrays | InterviewBit |
 | 2026-05-11 | RotateMatrix | Arrays | InterviewBit |
 | 2026-05-11 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-11 | SortedInsertPosition | BinarySearch | InterviewBit |
+| 2026-05-11 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-11 | DivideTwoIntegers | BitManipulation | LeetCode |
 | 2026-05-11 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-05-11 | SingleNumber | BitManipulation | InterviewBit |
