@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-23-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-24-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -37,7 +37,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 3 | LinkedList | 0 | 🔴 Not Started |
 | 4 | StackAndQueue | 0 | 🔴 Not Started |
 | 5 | Trees | 0 | 🔴 Not Started |
-| 6 | BinarySearch | 1 | 🟡 In Progress |
+| 6 | BinarySearch | 2 | 🟡 In Progress |
 | 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
 | 9 | Backtracking | 0 | 🔴 Not Started |
@@ -82,7 +82,8 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
+| 1 | FindPeakElement | InterviewBit | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
+| 2 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
 
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
@@ -146,29 +147,30 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-11 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-11 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-11 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-11 | SortedInsertPosition | BinarySearch | LeetCode(35) |
-| 2026-05-11 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-11 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-11 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-11 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-11 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-11 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-11 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-11 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-11 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-11 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-11 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-11 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-11 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-11 | InversionCount | Sorting | GeeksForGeeks |
-| 2026-05-11 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-05-11 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-11 | QuickSort | Sorting | GeeksForGeeks |
-| 2026-05-11 | ReversePairs | Sorting | LeetCode(493) |
-| 2026-05-11 | SumTheDifference | Sorting | LeetCode(891) |
+| 2026-05-12 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-12 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-12 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-12 | FindPeakElement | BinarySearch | InterviewBit |
+| 2026-05-12 | SortedInsertPosition | BinarySearch | LeetCode(35) |
+| 2026-05-12 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-12 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-12 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-12 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-12 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-12 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-12 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-12 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-12 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-12 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-12 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-12 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-12 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-12 | InversionCount | Sorting | GeeksForGeeks |
+| 2026-05-12 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-12 | MinimumStepsUniqueArray | Sorting | LeetCode |
+| 2026-05-12 | QuickSort | Sorting | GeeksForGeeks |
+| 2026-05-12 | ReversePairs | Sorting | LeetCode(493) |
+| 2026-05-12 | SumTheDifference | Sorting | LeetCode(891) |
 
 
 ---
