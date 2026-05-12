@@ -37,6 +37,7 @@ DIFFICULTY = {
     "SumTheDifference"          : "🟡 Medium",
     "QuickSort"                 : "🟡 Medium",
     "SortedInsertPosition"      : "🟢 Easy",
+    "FindPeakElement"           : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -66,6 +67,7 @@ PLATFORM = {
     "SumTheDifference"          : "LeetCode(891)",
     "QuickSort"                 : "GeeksForGeeks",
     "SortedInsertPosition"      : "LeetCode(35)",
+    "FindPeakElement"           : "LeetCode(162)",
 }
 
 def get_problems():
