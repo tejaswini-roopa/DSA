@@ -84,7 +84,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | FindPeakElement | LeetCode(162) | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
 | 2 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
-| 3 | SpecialInteger | InterviewBit | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
+| 3 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
 
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
@@ -153,7 +153,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-13 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-05-13 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-05-13 | SortedInsertPosition | BinarySearch | LeetCode(35) |
-| 2026-05-13 | SpecialInteger | BinarySearch | InterviewBit |
+| 2026-05-13 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-05-13 | DivideTwoIntegers | BitManipulation | LeetCode |
 | 2026-05-13 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-05-13 | SingleNumber | BitManipulation | InterviewBit |
