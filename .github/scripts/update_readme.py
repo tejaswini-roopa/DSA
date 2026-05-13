@@ -38,6 +38,7 @@ DIFFICULTY = {
     "QuickSort"                 : "🟡 Medium",
     "SortedInsertPosition"      : "🟢 Easy",
     "FindPeakElement"           : "🟡 Medium",
+    "SpecialInteger"            : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -68,6 +69,7 @@ PLATFORM = {
     "QuickSort"                 : "GeeksForGeeks",
     "SortedInsertPosition"      : "LeetCode(35)",
     "FindPeakElement"           : "LeetCode(162)",
+    "SpecialInteger"            : "LeetCode",
 }
 
 def get_problems():
