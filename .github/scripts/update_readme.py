@@ -39,6 +39,7 @@ DIFFICULTY = {
     "SortedInsertPosition"      : "🟢 Easy",
     "FindPeakElement"           : "🟡 Medium",
     "SpecialInteger"            : "🟡 Medium",
+    "AggressiveCows"            : "🔴 Hard",
 }
 
 PLATFORM = {
@@ -70,6 +71,7 @@ PLATFORM = {
     "SortedInsertPosition"      : "LeetCode(35)",
     "FindPeakElement"           : "LeetCode(162)",
     "SpecialInteger"            : "LeetCode",
+    "AggressiveCows"            : "GeeksForGeeks",
 }
 
 def get_problems():
