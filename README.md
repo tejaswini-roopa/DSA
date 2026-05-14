@@ -82,7 +82,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | AggressiveCows | InterviewBit | 🟡 Medium | [View](./BinarySearch/AggressiveCows.java) |
+| 1 | AggressiveCows | GeeksForGeeks | 🔴 Hard | [View](./BinarySearch/AggressiveCows.java) |
 | 2 | FindPeakElement | LeetCode(162) | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
 | 3 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
 | 4 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
@@ -152,7 +152,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-14 | InsertInterval | Arrays | InterviewBit |
 | 2026-05-14 | RotateMatrix | Arrays | InterviewBit |
 | 2026-05-14 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-14 | AggressiveCows | BinarySearch | InterviewBit |
+| 2026-05-14 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-05-14 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-05-14 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-14 | SpecialInteger | BinarySearch | LeetCode |
