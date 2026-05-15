@@ -40,6 +40,7 @@ DIFFICULTY = {
     "FindPeakElement"           : "🟡 Medium",
     "SpecialInteger"            : "🟡 Medium",
     "AggressiveCows"            : "🔴 Hard",
+    "SearchRange"               : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -72,6 +73,7 @@ PLATFORM = {
     "FindPeakElement"           : "LeetCode(162)",
     "SpecialInteger"            : "LeetCode",
     "AggressiveCows"            : "GeeksForGeeks",
+    "SearchRange"               : "LeetCode(34)",
 }
 
 def get_problems():
