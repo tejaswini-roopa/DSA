@@ -84,7 +84,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | AggressiveCows | GeeksForGeeks | 🔴 Hard | [View](./BinarySearch/AggressiveCows.java) |
 | 2 | FindPeakElement | LeetCode(162) | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
-| 3 | SearchRange | InterviewBit | 🟡 Medium | [View](./BinarySearch/SearchRange.java) |
+| 3 | SearchRange | LeetCode(34) | 🟡 Medium | [View](./BinarySearch/SearchRange.java) |
 | 4 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
 | 5 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
 
@@ -155,7 +155,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-15 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-05-15 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-05-15 | FindPeakElement | BinarySearch | LeetCode(162) |
-| 2026-05-15 | SearchRange | BinarySearch | InterviewBit |
+| 2026-05-15 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-05-15 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-15 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-05-15 | DivideTwoIntegers | BitManipulation | LeetCode |
