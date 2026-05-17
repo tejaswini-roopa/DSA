@@ -84,7 +84,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | AggressiveCows | GeeksForGeeks | 🔴 Hard | [View](./BinarySearch/AggressiveCows.java) |
 | 2 | FindPeakElement | LeetCode(162) | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
-| 3 | NthMagicalNumber | InterviewBit | 🟡 Medium | [View](./BinarySearch/NthMagicalNumber.java) |
+| 3 | NthMagicalNumber | LeetCode(878) | 🔴 Hard | [View](./BinarySearch/NthMagicalNumber.java) |
 | 4 | SearchRange | LeetCode(34) | 🟡 Medium | [View](./BinarySearch/SearchRange.java) |
 | 5 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
 | 6 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
@@ -156,7 +156,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-17 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-05-17 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-05-17 | FindPeakElement | BinarySearch | LeetCode(162) |
-| 2026-05-17 | NthMagicalNumber | BinarySearch | InterviewBit |
+| 2026-05-17 | NthMagicalNumber | BinarySearch | LeetCode(878) |
 | 2026-05-17 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-05-17 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-17 | SpecialInteger | BinarySearch | LeetCode |
