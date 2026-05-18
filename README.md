@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-28-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-29-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -37,7 +37,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 3 | LinkedList | 0 | 🔴 Not Started |
 | 4 | StackAndQueue | 0 | 🔴 Not Started |
 | 5 | Trees | 0 | 🔴 Not Started |
-| 6 | BinarySearch | 6 | 🟡 In Progress |
+| 6 | BinarySearch | 7 | 🟡 In Progress |
 | 7 | DynamicProgramming | 0 | 🔴 Not Started |
 | 8 | Graphs | 0 | 🔴 Not Started |
 | 9 | Backtracking | 0 | 🔴 Not Started |
@@ -84,10 +84,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | AggressiveCows | GeeksForGeeks | 🔴 Hard | [View](./BinarySearch/AggressiveCows.java) |
 | 2 | FindPeakElement | LeetCode(162) | 🟡 Medium | [View](./BinarySearch/FindPeakElement.java) |
-| 3 | NthMagicalNumber | LeetCode(878) | 🔴 Hard | [View](./BinarySearch/NthMagicalNumber.java) |
-| 4 | SearchRange | LeetCode(34) | 🟡 Medium | [View](./BinarySearch/SearchRange.java) |
-| 5 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
-| 6 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
+| 3 | KthSmallestPrice | InterviewBit | 🟡 Medium | [View](./BinarySearch/KthSmallestPrice.java) |
+| 4 | NthMagicalNumber | LeetCode(878) | 🔴 Hard | [View](./BinarySearch/NthMagicalNumber.java) |
+| 5 | SearchRange | LeetCode(34) | 🟡 Medium | [View](./BinarySearch/SearchRange.java) |
+| 6 | SortedInsertPosition | LeetCode(35) | 🟢 Easy | [View](./BinarySearch/SortedInsertPosition.java) |
+| 7 | SpecialInteger | LeetCode | 🟡 Medium | [View](./BinarySearch/SpecialInteger.java) |
 
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
@@ -151,34 +152,35 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-17 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-17 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-17 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-17 | AggressiveCows | BinarySearch | GeeksForGeeks |
-| 2026-05-17 | FindPeakElement | BinarySearch | LeetCode(162) |
-| 2026-05-17 | NthMagicalNumber | BinarySearch | LeetCode(878) |
-| 2026-05-17 | SearchRange | BinarySearch | LeetCode(34) |
-| 2026-05-17 | SortedInsertPosition | BinarySearch | LeetCode(35) |
-| 2026-05-17 | SpecialInteger | BinarySearch | LeetCode |
-| 2026-05-17 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-17 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-17 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-17 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-17 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-17 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-17 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-17 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-17 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-17 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-17 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-17 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-17 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-17 | InversionCount | Sorting | GeeksForGeeks |
-| 2026-05-17 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-05-17 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-17 | QuickSort | Sorting | GeeksForGeeks |
-| 2026-05-17 | ReversePairs | Sorting | LeetCode(493) |
-| 2026-05-17 | SumTheDifference | Sorting | LeetCode(891) |
+| 2026-05-18 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-18 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-18 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-18 | AggressiveCows | BinarySearch | GeeksForGeeks |
+| 2026-05-18 | FindPeakElement | BinarySearch | LeetCode(162) |
+| 2026-05-18 | KthSmallestPrice | BinarySearch | InterviewBit |
+| 2026-05-18 | NthMagicalNumber | BinarySearch | LeetCode(878) |
+| 2026-05-18 | SearchRange | BinarySearch | LeetCode(34) |
+| 2026-05-18 | SortedInsertPosition | BinarySearch | LeetCode(35) |
+| 2026-05-18 | SpecialInteger | BinarySearch | LeetCode |
+| 2026-05-18 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-18 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-18 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-18 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-18 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-18 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-18 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-18 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-18 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-18 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-18 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-18 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-18 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-18 | InversionCount | Sorting | GeeksForGeeks |
+| 2026-05-18 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-18 | MinimumStepsUniqueArray | Sorting | LeetCode |
+| 2026-05-18 | QuickSort | Sorting | GeeksForGeeks |
+| 2026-05-18 | ReversePairs | Sorting | LeetCode(493) |
+| 2026-05-18 | SumTheDifference | Sorting | LeetCode(891) |
 
 
 ---
