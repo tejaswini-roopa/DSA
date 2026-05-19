@@ -43,6 +43,7 @@ DIFFICULTY = {
     "SearchRange"               : "🟡 Medium",
     "NthMagicalNumber"          : "🔴 Hard",
     "KthSmallestPrice"          : "🟡 Medium",
+    "KDiffPairsInArray"         : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -76,8 +77,9 @@ PLATFORM = {
     "SpecialInteger"            : "LeetCode",
     "AggressiveCows"            : "GeeksForGeeks",
     "SearchRange"               : "LeetCode(34)",
-    "NthMagicalNumber"         : "LeetCode(878)",
-    "KthSmallestPrice"         : "InterviewBit",
+    "NthMagicalNumber"          : "LeetCode(878)",
+    "KthSmallestPrice"          : "InterviewBit",
+     "KDiffPairsInArray"        : "LeetCode(532)",
 }
 
 def get_problems():
