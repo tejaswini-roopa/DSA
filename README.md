@@ -152,35 +152,35 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-05-18 | InsertInterval | Arrays | InterviewBit |
-| 2026-05-18 | RotateMatrix | Arrays | InterviewBit |
-| 2026-05-18 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-05-18 | AggressiveCows | BinarySearch | GeeksForGeeks |
-| 2026-05-18 | FindPeakElement | BinarySearch | LeetCode(162) |
-| 2026-05-18 | KthSmallestPrice | BinarySearch | InterviewBit |
-| 2026-05-18 | NthMagicalNumber | BinarySearch | LeetCode(878) |
-| 2026-05-18 | SearchRange | BinarySearch | LeetCode(34) |
-| 2026-05-18 | SortedInsertPosition | BinarySearch | LeetCode(35) |
-| 2026-05-18 | SpecialInteger | BinarySearch | LeetCode |
-| 2026-05-18 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-05-18 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-05-18 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-05-18 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-05-18 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-05-18 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-05-18 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-05-18 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-05-18 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-05-18 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-05-18 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-05-18 | PrintReverseString | Recursion | InterviewBit |
-| 2026-05-18 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-05-18 | InversionCount | Sorting | GeeksForGeeks |
-| 2026-05-18 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-05-18 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-05-18 | QuickSort | Sorting | GeeksForGeeks |
-| 2026-05-18 | ReversePairs | Sorting | LeetCode(493) |
-| 2026-05-18 | SumTheDifference | Sorting | LeetCode(891) |
+| 2026-05-19 | InsertInterval | Arrays | InterviewBit |
+| 2026-05-19 | RotateMatrix | Arrays | InterviewBit |
+| 2026-05-19 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-05-19 | AggressiveCows | BinarySearch | GeeksForGeeks |
+| 2026-05-19 | FindPeakElement | BinarySearch | LeetCode(162) |
+| 2026-05-19 | KthSmallestPrice | BinarySearch | InterviewBit |
+| 2026-05-19 | NthMagicalNumber | BinarySearch | LeetCode(878) |
+| 2026-05-19 | SearchRange | BinarySearch | LeetCode(34) |
+| 2026-05-19 | SortedInsertPosition | BinarySearch | LeetCode(35) |
+| 2026-05-19 | SpecialInteger | BinarySearch | LeetCode |
+| 2026-05-19 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-19 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-19 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-19 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-05-19 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-05-19 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-05-19 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-05-19 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-05-19 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-05-19 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-05-19 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-05-19 | PrintReverseString | Recursion | InterviewBit |
+| 2026-05-19 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-05-19 | InversionCount | Sorting | GeeksForGeeks |
+| 2026-05-19 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-05-19 | MinimumStepsUniqueArray | Sorting | LeetCode |
+| 2026-05-19 | QuickSort | Sorting | GeeksForGeeks |
+| 2026-05-19 | ReversePairs | Sorting | LeetCode(493) |
+| 2026-05-19 | SumTheDifference | Sorting | LeetCode(891) |
 
 
 ---
