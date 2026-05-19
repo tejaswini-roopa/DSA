@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-29-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-30-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -46,6 +46,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 12 | ModularArithmetic | 5 | 🟡 In Progress |
 | 13 | Recursion | 4 | 🟡 In Progress |
 | 14 | Sorting | 6 | 🟡 In Progress |
+| 15 | TwoPointer | 1 | 🟡 In Progress |
 
 
 ---
@@ -145,6 +146,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 5 | ReversePairs | LeetCode(493) | 🔴 Hard | [View](./Sorting/ReversePairs.java) |
 | 6 | SumTheDifference | LeetCode(891) | 🟡 Medium | [View](./Sorting/SumTheDifference.java) |
 
+### 📁 TwoPointer
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | KDiffPairsInArray | LeetCode(532) | 🟡 Medium | [View](./TwoPointer/KDiffPairsInArray.java) |
+
 
 ---
 
@@ -181,6 +187,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-19 | QuickSort | Sorting | GeeksForGeeks |
 | 2026-05-19 | ReversePairs | Sorting | LeetCode(493) |
 | 2026-05-19 | SumTheDifference | Sorting | LeetCode(891) |
+| 2026-05-19 | KDiffPairsInArray | TwoPointer | LeetCode(532) |
 
 
 ---
