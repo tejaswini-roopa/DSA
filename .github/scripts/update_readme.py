@@ -163,9 +163,6 @@ def build_daily_log(problems):
 
     return f"""## 📅 Daily Log
 
-| Date | Problem | Topic | Platform |
-|------|---------|-------|----------|
-{rows}"""
 
 def build_readme(problems):
     total    = sum(len(v) for v in problems.values())
