@@ -44,6 +44,7 @@ DIFFICULTY = {
     "NthMagicalNumber"          : "🔴 Hard",
     "KthSmallestPrice"          : "🟡 Medium",
     "KDiffPairsInArray"         : "🟡 Medium",
+    "ContainerWithMostWater"    : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -79,7 +80,8 @@ PLATFORM = {
     "SearchRange"               : "LeetCode(34)",
     "NthMagicalNumber"          : "LeetCode(878)",
     "KthSmallestPrice"          : "InterviewBit",
-     "KDiffPairsInArray"        : "LeetCode(532)",
+    "KDiffPairsInArray"         : "LeetCode(532)",
+    "ContainerWithMostWater"    : "LeetCode(11)",
 }
 
 def get_problems():
