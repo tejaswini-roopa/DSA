@@ -149,7 +149,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 TwoPointer
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | ContainerWithMostWater | InterviewBit | 🟡 Medium | [View](./TwoPointer/ContainerWithMostWater.java) |
+| 1 | ContainerWithMostWater | LeetCode(11) | 🟡 Medium | [View](./TwoPointer/ContainerWithMostWater.java) |
 | 2 | KDiffPairsInArray | LeetCode(532) | 🟡 Medium | [View](./TwoPointer/KDiffPairsInArray.java) |
 
 
@@ -188,7 +188,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-20 | QuickSort | Sorting | GeeksForGeeks |
 | 2026-05-20 | ReversePairs | Sorting | LeetCode(493) |
 | 2026-05-20 | SumTheDifference | Sorting | LeetCode(891) |
-| 2026-05-20 | ContainerWithMostWater | TwoPointer | InterviewBit |
+| 2026-05-20 | ContainerWithMostWater | TwoPointer | LeetCode(11) |
 | 2026-05-20 | KDiffPairsInArray | TwoPointer | LeetCode(532) |
 
 
