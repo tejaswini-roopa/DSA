@@ -164,6 +164,9 @@ def build_daily_log(problems):
             rows += f"| {parts[0].strip()} | {parts[1].strip()} | {parts[2].strip()} | {parts[3].strip()} |\n"
 
     return f"""## 📅 Daily Log
+| Date | Problem | Topic | Platform |
+|------|---------|-------|----------|
+{rows}"""
 
 
 def build_readme(problems):
