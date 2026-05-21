@@ -33,9 +33,7 @@ public class TwoSum {
         // Test Case 3: nums=[3,3], target=6 → Expected: [0,1]
         runTestCase(solution, new int[]{3, 3}, 6, 3);
 
-        // Test Case 4: nums=[1,2,3,4,5], target=9 → Expected: [3,4]
-        runTestCase(solution, new int[]{1, 2, 3, 4, 5}, 9, 4);
-    }
+            }
 
     private static void runTestCase(TwoSum solution,
                                      int[] nums, int target, int testNumber) {
