@@ -45,6 +45,7 @@ DIFFICULTY = {
     "KthSmallestPrice"          : "🟡 Medium",
     "KDiffPairsInArray"         : "🟡 Medium",
     "ContainerWithMostWater"    : "🟡 Medium",
+    "TwoSum"                    : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -82,6 +83,7 @@ PLATFORM = {
     "KthSmallestPrice"          : "InterviewBit",
     "KDiffPairsInArray"         : "LeetCode(532)",
     "ContainerWithMostWater"    : "LeetCode(11)",
+    "TwoSum"                    : "GeeksForGeeks",
 }
 
 def get_problems():
