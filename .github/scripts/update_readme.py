@@ -46,6 +46,7 @@ DIFFICULTY = {
     "KDiffPairsInArray"         : "🟡 Medium",
     "ContainerWithMostWater"    : "🟡 Medium",
     "TwoSum"                    : "🟢 Easy",
+    "LargestSubarrayZeroSum"    : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -84,6 +85,7 @@ PLATFORM = {
     "KDiffPairsInArray"         : "LeetCode(532)",
     "ContainerWithMostWater"    : "LeetCode(11)",
     "TwoSum"                    : "GeeksForGeeks",
+    "LargestSubarrayZeroSum"    : "GeeksForGeeks",
 }
 
 def get_problems():
