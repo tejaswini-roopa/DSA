@@ -5,7 +5,7 @@ TOPICS = [
     "Arrays", "Strings", "LinkedList",
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
-    "Backtracking", "Greedy",
+    "Backtracking", "Greedy","Hashing"
     "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer"
 ]
 
