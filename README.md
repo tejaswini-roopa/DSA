@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-28-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-33-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -42,11 +42,12 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 8 | Graphs | 0 | 🔴 Not Started |
 | 9 | Backtracking | 0 | 🔴 Not Started |
 | 10 | Greedy | 0 | 🔴 Not Started |
-| 11 | HashingBitManipulation | 0 | 🔴 Not Started |
-| 12 | ModularArithmetic | 5 | 🟡 In Progress |
-| 13 | Recursion | 4 | 🟡 In Progress |
-| 14 | Sorting | 6 | 🟡 In Progress |
-| 15 | TwoPointer | 3 | 🟡 In Progress |
+| 11 | Hashing | 1 | 🟡 In Progress |
+| 12 | BitManipulation | 4 | 🟡 In Progress |
+| 13 | ModularArithmetic | 5 | 🟡 In Progress |
+| 14 | Recursion | 4 | 🟡 In Progress |
+| 15 | Sorting | 6 | 🟡 In Progress |
+| 16 | TwoPointer | 3 | 🟡 In Progress |
 
 
 ---
@@ -111,10 +112,18 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
 
-### 📁 HashingBitManipulation
+### 📁 Hashing
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| - | Coming Soon | - | - | - |
+| 1 | LargestSubarrayZeroSum | GeeksForGeeks | 🟡 Medium | [View](./Hashing/LargestSubarrayZeroSum.java) |
+
+### 📁 BitManipulation
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | DivideTwoIntegers | LeetCode | 🔴 Hard | [View](./BitManipulation/DivideTwoIntegers.java) |
+| 2 | NumberOf1Bits | LeetCode | 🟢 Easy | [View](./BitManipulation/NumberOf1Bits.java) |
+| 3 | SingleNumber | InterviewBit | 🟡 Medium | [View](./BitManipulation/SingleNumber.java) |
+| 4 | SingleNumberIII | LeetCode | 🟡 Medium | [View](./BitManipulation/SingleNumberIII.java) |
 
 ### 📁 ModularArithmetic
 | # | Problem | Platform | Difficulty | Solution |
@@ -166,6 +175,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-22 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-05-22 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-22 | SpecialInteger | BinarySearch | LeetCode |
+| 2026-05-22 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
+| 2026-05-22 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-05-22 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-05-22 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-05-22 | SingleNumberIII | BitManipulation | LeetCode |
 | 2026-05-22 | ArrayArranger | ModularArithmetic | LeetCode |
 | 2026-05-22 | CountDivisors | ModularArithmetic | InterviewBit |
 | 2026-05-22 | MaximumGcd | ModularArithmetic | InterviewBit |
