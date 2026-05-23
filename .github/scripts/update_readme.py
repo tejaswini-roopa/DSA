@@ -47,6 +47,7 @@ DIFFICULTY = {
     "ContainerWithMostWater"    : "🟡 Medium",
     "TwoSum"                    : "🟢 Easy",
     "LargestSubarrayZeroSum"    : "🟡 Medium",
+    "ShaggyAndDistances"        : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -86,6 +87,7 @@ PLATFORM = {
     "ContainerWithMostWater"    : "LeetCode(11)",
     "TwoSum"                    : "GeeksForGeeks",
     "LargestSubarrayZeroSum"    : "GeeksForGeeks",
+    "ShaggyAndDistances"        : "LeetCode(219)",
 }
 
 def get_problems():
