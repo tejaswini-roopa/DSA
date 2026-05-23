@@ -116,7 +116,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | LargestSubarrayZeroSum | GeeksForGeeks | 🟡 Medium | [View](./Hashing/LargestSubarrayZeroSum.java) |
-| 2 | ShaggyAndDistances | InterviewBit | 🟡 Medium | [View](./Hashing/ShaggyAndDistances.java) |
+| 2 | ShaggyAndDistances | LeetCode(219) | 🟢 Easy | [View](./Hashing/ShaggyAndDistances.java) |
 
 ### 📁 BitManipulation
 | # | Problem | Platform | Difficulty | Solution |
@@ -177,7 +177,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-23 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-23 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-05-23 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
-| 2026-05-23 | ShaggyAndDistances | Hashing | InterviewBit |
+| 2026-05-23 | ShaggyAndDistances | Hashing | LeetCode(219) |
 | 2026-05-23 | DivideTwoIntegers | BitManipulation | LeetCode |
 | 2026-05-23 | NumberOf1Bits | BitManipulation | LeetCode |
 | 2026-05-23 | SingleNumber | BitManipulation | InterviewBit |
