@@ -48,6 +48,7 @@ DIFFICULTY = {
     "TwoSum"                    : "🟢 Easy",
     "LargestSubarrayZeroSum"    : "🟡 Medium",
     "ShaggyAndDistances"        : "🟢 Easy",
+    "CountRectangles"           : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -88,6 +89,7 @@ PLATFORM = {
     "TwoSum"                    : "GeeksForGeeks",
     "LargestSubarrayZeroSum"    : "GeeksForGeeks",
     "ShaggyAndDistances"        : "LeetCode(219)",
+    "CountRectangles"           : "GeeksForGeeks"
 }
 
 def get_problems():
