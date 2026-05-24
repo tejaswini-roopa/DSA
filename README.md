@@ -115,7 +115,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 Hashing
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | CountRectangles | InterviewBit | 🟡 Medium | [View](./Hashing/CountRectangles.java) |
+| 1 | CountRectangles | GeeksForGeeks | 🟡 Medium | [View](./Hashing/CountRectangles.java) |
 | 2 | LargestSubarrayZeroSum | GeeksForGeeks | 🟡 Medium | [View](./Hashing/LargestSubarrayZeroSum.java) |
 | 3 | ShaggyAndDistances | LeetCode(219) | 🟢 Easy | [View](./Hashing/ShaggyAndDistances.java) |
 
@@ -177,7 +177,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-24 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-05-24 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-05-24 | SpecialInteger | BinarySearch | LeetCode |
-| 2026-05-24 | CountRectangles | Hashing | InterviewBit |
+| 2026-05-24 | CountRectangles | Hashing | GeeksForGeeks |
 | 2026-05-24 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
 | 2026-05-24 | ShaggyAndDistances | Hashing | LeetCode(219) |
 | 2026-05-24 | DivideTwoIntegers | BitManipulation | LeetCode |
