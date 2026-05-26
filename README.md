@@ -118,7 +118,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | CountRectangles | GeeksForGeeks | 🟡 Medium | [View](./Hashing/CountRectangles.java) |
 | 2 | CountRightTriangles | InterviewBit | 🟡 Medium | [View](./Hashing/CountRightTriangles.java) |
 | 3 | LargestSubarrayZeroSum | GeeksForGeeks | 🟡 Medium | [View](./Hashing/LargestSubarrayZeroSum.java) |
-| 4 | ReplicatingSubstring | InterviewBit | 🟡 Medium | [View](./Hashing/ReplicatingSubstring.java) |
+| 4 | ReplicatingSubstring | LeetCode(1897) | 🟢 Easy | [View](./Hashing/ReplicatingSubstring.java) |
 | 5 | ShaggyAndDistances | LeetCode(219) | 🟢 Easy | [View](./Hashing/ShaggyAndDistances.java) |
 
 ### 📁 BitManipulation
@@ -182,7 +182,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-05-26 | CountRectangles | Hashing | GeeksForGeeks |
 | 2026-05-26 | CountRightTriangles | Hashing | InterviewBit |
 | 2026-05-26 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
-| 2026-05-26 | ReplicatingSubstring | Hashing | InterviewBit |
+| 2026-05-26 | ReplicatingSubstring | Hashing | LeetCode(1897) |
 | 2026-05-26 | ShaggyAndDistances | Hashing | LeetCode(219) |
 | 2026-05-26 | DivideTwoIntegers | BitManipulation | LeetCode |
 | 2026-05-26 | NumberOf1Bits | BitManipulation | LeetCode |
