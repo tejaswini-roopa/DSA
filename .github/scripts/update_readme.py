@@ -50,6 +50,7 @@ DIFFICULTY = {
     "ShaggyAndDistances"        : "🟢 Easy",
     "CountRectangles"           : "🟡 Medium",
     "CountRightTriangles"       : "🟡 Medium",
+    "ReplicatingSubstring"      : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -92,6 +93,7 @@ PLATFORM = {
     "ShaggyAndDistances"        : "LeetCode(219)",
     "CountRectangles"           : "GeeksForGeeks",
     "CountRightTriangles"       : "InterviewBit",
+    "ReplicatingSubstring"      : "LeetCode(1897)",
 }
 
 def get_problems():
