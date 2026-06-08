@@ -6,7 +6,7 @@ TOPICS = [
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
     "Backtracking", "Greedy","Hashing",
-    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer","Strings"
+    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer"
 ]
 
 DIFFICULTY = {
