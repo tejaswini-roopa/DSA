@@ -6,7 +6,7 @@ TOPICS = [
     "StackAndQueue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
     "Backtracking", "Greedy","Hashing",
-    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer"
+    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer","Strings"
 ]
 
 DIFFICULTY = {
@@ -51,6 +51,7 @@ DIFFICULTY = {
     "CountRectangles"           : "🟡 Medium",
     "CountRightTriangles"       : "🟡 Medium",
     "ReplicatingSubstring"      : "🟢 Easy",
+    "BoringSubstring"           : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -94,6 +95,7 @@ PLATFORM = {
     "CountRectangles"           : "GeeksForGeeks",
     "CountRightTriangles"       : "InterviewBit",
     "ReplicatingSubstring"      : "LeetCode(1897)",
+    "BoringSubstring"           : "InterviewBit",
 }
 
 def get_problems():
