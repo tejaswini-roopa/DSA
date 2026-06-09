@@ -52,6 +52,7 @@ DIFFICULTY = {
     "CountRightTriangles"       : "🟡 Medium",
     "ReplicatingSubstring"      : "🟢 Easy",
     "BoringSubstring"           : "🟡 Medium",
+    "CountOccurrencesOfAnagrams": "🟡 Medium",
 }
 
 PLATFORM = {
@@ -96,6 +97,7 @@ PLATFORM = {
     "CountRightTriangles"       : "InterviewBit",
     "ReplicatingSubstring"      : "LeetCode(1897)",
     "BoringSubstring"           : "InterviewBit",
+    "CountOccurrencesOfAnagrams": "GeeksForGeeks",
 }
 
 def get_problems():
