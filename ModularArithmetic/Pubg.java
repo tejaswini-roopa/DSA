@@ -39,4 +39,4 @@ public class Pubg {
         System.out.println("  Output : " + result);
         System.out.println();
     }
-}
+}tt
