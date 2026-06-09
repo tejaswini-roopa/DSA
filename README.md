@@ -48,6 +48,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 14 | Recursion | 4 | 🟡 In Progress |
 | 15 | Sorting | 6 | 🟡 In Progress |
 | 16 | TwoPointer | 3 | 🟡 In Progress |
+| 17 | Strings | 1 | 🟡 In Progress |
 
 
 ---
@@ -162,6 +163,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | ContainerWithMostWater | LeetCode(11) | 🟡 Medium | [View](./TwoPointer/ContainerWithMostWater.java) |
 | 2 | KDiffPairsInArray | LeetCode(532) | 🟡 Medium | [View](./TwoPointer/KDiffPairsInArray.java) |
 | 3 | TwoSum | GeeksForGeeks | 🟢 Easy | [View](./TwoPointer/TwoSum.java) |
+
+### 📁 Strings
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | BoringSubstring | InterviewBit | 🟡 Medium | [View](./Strings/BoringSubstring.java) |
 
 
 ---
