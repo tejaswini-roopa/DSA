@@ -66,7 +66,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BoringSubstring | InterviewBit | 🟡 Medium | [View](./Strings/BoringSubstring.java) |
 | 2 | CountOccurrencesOfAnagrams | GeeksForGeeks | 🟡 Medium | [View](./Strings/CountOccurrencesOfAnagrams.java) |
-| 3 | MinimumWindowSubstring | InterviewBit | 🟡 Medium | [View](./Strings/MinimumWindowSubstring.java) |
+| 3 | MinimumWindowSubstring | LeetCode(76) | 🔴 Hard | [View](./Strings/MinimumWindowSubstring.java) |
 
 ### 📁 LinkedList
 | # | Problem | Platform | Difficulty | Solution |
@@ -176,7 +176,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-10 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-06-10 | BoringSubstring | Strings | InterviewBit |
 | 2026-06-10 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
-| 2026-06-10 | MinimumWindowSubstring | Strings | InterviewBit |
+| 2026-06-10 | MinimumWindowSubstring | Strings | LeetCode(76) |
 | 2026-06-10 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-10 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-10 | KthSmallestPrice | BinarySearch | InterviewBit |
