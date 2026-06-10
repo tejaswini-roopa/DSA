@@ -53,6 +53,7 @@ DIFFICULTY = {
     "ReplicatingSubstring"      : "🟢 Easy",
     "BoringSubstring"           : "🟡 Medium",
     "CountOccurrencesOfAnagrams": "🟡 Medium",
+    "MinimumWindowSubstring"    : "🔴 Hard",
 }
 
 PLATFORM = {
@@ -98,6 +99,7 @@ PLATFORM = {
     "ReplicatingSubstring"      : "LeetCode(1897)",
     "BoringSubstring"           : "InterviewBit",
     "CountOccurrencesOfAnagrams": "GeeksForGeeks",
+    "MinimumWindowSubstring"    : "LeetCode(76)",
 }
 
 def get_problems():
