@@ -71,7 +71,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 LinkedList
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | LinkedListCycleII | InterviewBit | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
+| 1 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 
 ### 📁 StackAndQueue
 | # | Problem | Platform | Difficulty | Solution |
@@ -177,7 +177,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-11 | BoringSubstring | Strings | InterviewBit |
 | 2026-06-11 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
 | 2026-06-11 | MinimumWindowSubstring | Strings | LeetCode(76) |
-| 2026-06-11 | LinkedListCycleII | LinkedList | InterviewBit |
+| 2026-06-11 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-06-11 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-11 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-11 | KthSmallestPrice | BinarySearch | InterviewBit |
