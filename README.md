@@ -72,7 +72,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
-| 2 | ReorderList | InterviewBit | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
+| 2 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 
 ### 📁 StackAndQueue
 | # | Problem | Platform | Difficulty | Solution |
@@ -179,7 +179,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-12 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
 | 2026-06-12 | MinimumWindowSubstring | Strings | LeetCode(76) |
 | 2026-06-12 | LinkedListCycleII | LinkedList | LeetCode(142) |
-| 2026-06-12 | ReorderList | LinkedList | InterviewBit |
+| 2026-06-12 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-06-12 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-12 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-12 | KthSmallestPrice | BinarySearch | InterviewBit |
