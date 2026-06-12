@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-41-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-42-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -34,7 +34,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|-------|----------------|--------|
 | 1 | Arrays | 3 | 🟡 In Progress |
 | 2 | Strings | 3 | 🟡 In Progress |
-| 3 | LinkedList | 1 | 🟡 In Progress |
+| 3 | LinkedList | 2 | 🟡 In Progress |
 | 4 | StackAndQueue | 0 | 🔴 Not Started |
 | 5 | Trees | 0 | 🔴 Not Started |
 | 6 | BinarySearch | 7 | 🟡 In Progress |
@@ -72,6 +72,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
+| 2 | ReorderList | InterviewBit | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 
 ### 📁 StackAndQueue
 | # | Problem | Platform | Difficulty | Solution |
@@ -171,47 +172,48 @@ Every solution includes clean code with proper naming conventions, comments, and
 ## 📅 Daily Log
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
-| 2026-06-11 | InsertInterval | Arrays | InterviewBit |
-| 2026-06-11 | RotateMatrix | Arrays | InterviewBit |
-| 2026-06-11 | TrappingRainWater | Arrays | InterviewBit |
-| 2026-06-11 | BoringSubstring | Strings | InterviewBit |
-| 2026-06-11 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
-| 2026-06-11 | MinimumWindowSubstring | Strings | LeetCode(76) |
-| 2026-06-11 | LinkedListCycleII | LinkedList | LeetCode(142) |
-| 2026-06-11 | AggressiveCows | BinarySearch | GeeksForGeeks |
-| 2026-06-11 | FindPeakElement | BinarySearch | LeetCode(162) |
-| 2026-06-11 | KthSmallestPrice | BinarySearch | InterviewBit |
-| 2026-06-11 | NthMagicalNumber | BinarySearch | LeetCode(878) |
-| 2026-06-11 | SearchRange | BinarySearch | LeetCode(34) |
-| 2026-06-11 | SortedInsertPosition | BinarySearch | LeetCode(35) |
-| 2026-06-11 | SpecialInteger | BinarySearch | LeetCode |
-| 2026-06-11 | CountRectangles | Hashing | GeeksForGeeks |
-| 2026-06-11 | CountRightTriangles | Hashing | InterviewBit |
-| 2026-06-11 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
-| 2026-06-11 | ReplicatingSubstring | Hashing | LeetCode(1897) |
-| 2026-06-11 | ShaggyAndDistances | Hashing | LeetCode(219) |
-| 2026-06-11 | DivideTwoIntegers | BitManipulation | LeetCode |
-| 2026-06-11 | NumberOf1Bits | BitManipulation | LeetCode |
-| 2026-06-11 | SingleNumber | BitManipulation | InterviewBit |
-| 2026-06-11 | SingleNumberIII | BitManipulation | LeetCode |
-| 2026-06-11 | ArrayArranger | ModularArithmetic | LeetCode |
-| 2026-06-11 | CountDivisors | ModularArithmetic | InterviewBit |
-| 2026-06-11 | MaximumGcd | ModularArithmetic | InterviewBit |
-| 2026-06-11 | PrimeSum | ModularArithmetic | GeeksForGeeks |
-| 2026-06-11 | Pubg | ModularArithmetic | InterviewBit |
-| 2026-06-11 | ImplementPowerFunction | Recursion | InterviewBit |
-| 2026-06-11 | KthSymbolInGrammar | Recursion | InterviewBit |
-| 2026-06-11 | PrintReverseString | Recursion | InterviewBit |
-| 2026-06-11 | TowerOfHanoi | Recursion | InterviewBit |
-| 2026-06-11 | InversionCount | Sorting | GeeksForGeeks |
-| 2026-06-11 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
-| 2026-06-11 | MinimumStepsUniqueArray | Sorting | LeetCode |
-| 2026-06-11 | QuickSort | Sorting | GeeksForGeeks |
-| 2026-06-11 | ReversePairs | Sorting | LeetCode(493) |
-| 2026-06-11 | SumTheDifference | Sorting | LeetCode(891) |
-| 2026-06-11 | ContainerWithMostWater | TwoPointer | LeetCode(11) |
-| 2026-06-11 | KDiffPairsInArray | TwoPointer | LeetCode(532) |
-| 2026-06-11 | TwoSum | TwoPointer | GeeksForGeeks |
+| 2026-06-12 | InsertInterval | Arrays | InterviewBit |
+| 2026-06-12 | RotateMatrix | Arrays | InterviewBit |
+| 2026-06-12 | TrappingRainWater | Arrays | InterviewBit |
+| 2026-06-12 | BoringSubstring | Strings | InterviewBit |
+| 2026-06-12 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
+| 2026-06-12 | MinimumWindowSubstring | Strings | LeetCode(76) |
+| 2026-06-12 | LinkedListCycleII | LinkedList | LeetCode(142) |
+| 2026-06-12 | ReorderList | LinkedList | InterviewBit |
+| 2026-06-12 | AggressiveCows | BinarySearch | GeeksForGeeks |
+| 2026-06-12 | FindPeakElement | BinarySearch | LeetCode(162) |
+| 2026-06-12 | KthSmallestPrice | BinarySearch | InterviewBit |
+| 2026-06-12 | NthMagicalNumber | BinarySearch | LeetCode(878) |
+| 2026-06-12 | SearchRange | BinarySearch | LeetCode(34) |
+| 2026-06-12 | SortedInsertPosition | BinarySearch | LeetCode(35) |
+| 2026-06-12 | SpecialInteger | BinarySearch | LeetCode |
+| 2026-06-12 | CountRectangles | Hashing | GeeksForGeeks |
+| 2026-06-12 | CountRightTriangles | Hashing | InterviewBit |
+| 2026-06-12 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
+| 2026-06-12 | ReplicatingSubstring | Hashing | LeetCode(1897) |
+| 2026-06-12 | ShaggyAndDistances | Hashing | LeetCode(219) |
+| 2026-06-12 | DivideTwoIntegers | BitManipulation | LeetCode |
+| 2026-06-12 | NumberOf1Bits | BitManipulation | LeetCode |
+| 2026-06-12 | SingleNumber | BitManipulation | InterviewBit |
+| 2026-06-12 | SingleNumberIII | BitManipulation | LeetCode |
+| 2026-06-12 | ArrayArranger | ModularArithmetic | LeetCode |
+| 2026-06-12 | CountDivisors | ModularArithmetic | InterviewBit |
+| 2026-06-12 | MaximumGcd | ModularArithmetic | InterviewBit |
+| 2026-06-12 | PrimeSum | ModularArithmetic | GeeksForGeeks |
+| 2026-06-12 | Pubg | ModularArithmetic | InterviewBit |
+| 2026-06-12 | ImplementPowerFunction | Recursion | InterviewBit |
+| 2026-06-12 | KthSymbolInGrammar | Recursion | InterviewBit |
+| 2026-06-12 | PrintReverseString | Recursion | InterviewBit |
+| 2026-06-12 | TowerOfHanoi | Recursion | InterviewBit |
+| 2026-06-12 | InversionCount | Sorting | GeeksForGeeks |
+| 2026-06-12 | MergeTwoSortedArrays | Sorting | GeeksForGeeks |
+| 2026-06-12 | MinimumStepsUniqueArray | Sorting | LeetCode |
+| 2026-06-12 | QuickSort | Sorting | GeeksForGeeks |
+| 2026-06-12 | ReversePairs | Sorting | LeetCode(493) |
+| 2026-06-12 | SumTheDifference | Sorting | LeetCode(891) |
+| 2026-06-12 | ContainerWithMostWater | TwoPointer | LeetCode(11) |
+| 2026-06-12 | KDiffPairsInArray | TwoPointer | LeetCode(532) |
+| 2026-06-12 | TwoSum | TwoPointer | GeeksForGeeks |
 
 
 ---
