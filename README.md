@@ -73,7 +73,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 | 2 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
-| 3 | SortList | InterviewBit | 🟡 Medium | [View](./LinkedList/SortList.java) |
+| 3 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
 
 ### 📁 StackAndQueue
 | # | Problem | Platform | Difficulty | Solution |
@@ -181,7 +181,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-13 | MinimumWindowSubstring | Strings | LeetCode(76) |
 | 2026-06-13 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-06-13 | ReorderList | LinkedList | LeetCode(143) |
-| 2026-06-13 | SortList | LinkedList | InterviewBit |
+| 2026-06-13 | SortList | LinkedList | LeetCode(148) |
 | 2026-06-13 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-13 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-13 | KthSmallestPrice | BinarySearch | InterviewBit |
