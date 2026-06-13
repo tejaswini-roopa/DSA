@@ -56,6 +56,7 @@ DIFFICULTY = {
     "MinimumWindowSubstring"    : "🔴 Hard",
     "LinkedListCycleII"         : "🟡 Medium",
     "ReorderList"               : "🟡 Medium",
+    "SortList"                  : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -104,6 +105,7 @@ PLATFORM = {
     "MinimumWindowSubstring"    : "LeetCode(76)",
     "LinkedListCycleII"         : "LeetCode(142)",
     "ReorderList"               : "LeetCode(143)",
+    "SortList"                  : "LeetCode(148)",
 }
 
 def get_problems():
