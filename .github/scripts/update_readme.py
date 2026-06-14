@@ -57,6 +57,7 @@ DIFFICULTY = {
     "LinkedListCycleII"         : "🟡 Medium",
     "ReorderList"               : "🟡 Medium",
     "SortList"                  : "🟡 Medium",
+    "FlattenLinkedList"         : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -106,6 +107,7 @@ PLATFORM = {
     "LinkedListCycleII"         : "LeetCode(142)",
     "ReorderList"               : "LeetCode(143)",
     "SortList"                  : "LeetCode(148)",
+    "FlattenLinkedList"         : "GeekForGeeks",
 }
 
 def get_problems():
