@@ -71,7 +71,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 LinkedList
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | FlattenLinkedList | InterviewBit | 🟡 Medium | [View](./LinkedList/FlattenLinkedList.java) |
+| 1 | FlattenLinkedList | GeekForGeeks | 🟡 Medium | [View](./LinkedList/FlattenLinkedList.java) |
 | 2 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 | 3 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 4 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
@@ -180,7 +180,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-14 | BoringSubstring | Strings | InterviewBit |
 | 2026-06-14 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
 | 2026-06-14 | MinimumWindowSubstring | Strings | LeetCode(76) |
-| 2026-06-14 | FlattenLinkedList | LinkedList | InterviewBit |
+| 2026-06-14 | FlattenLinkedList | LinkedList | GeekForGeeks |
 | 2026-06-14 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-06-14 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-06-14 | SortList | LinkedList | LeetCode(148) |
