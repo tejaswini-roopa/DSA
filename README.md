@@ -72,7 +72,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | FlattenLinkedList | GeekForGeeks | 🟡 Medium | [View](./LinkedList/FlattenLinkedList.java) |
-| 2 | LRUCache | InterviewBit | 🟡 Medium | [View](./LinkedList/LRUCache.java) |
+| 2 | LRUCache | LeetCode(146) | 🟡 Medium | [View](./LinkedList/LRUCache.java) |
 | 3 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 | 4 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 5 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
@@ -182,7 +182,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-15 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
 | 2026-06-15 | MinimumWindowSubstring | Strings | LeetCode(76) |
 | 2026-06-15 | FlattenLinkedList | LinkedList | GeekForGeeks |
-| 2026-06-15 | LRUCache | LinkedList | InterviewBit |
+| 2026-06-15 | LRUCache | LinkedList | LeetCode(146) |
 | 2026-06-15 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-06-15 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-06-15 | SortList | LinkedList | LeetCode(148) |
