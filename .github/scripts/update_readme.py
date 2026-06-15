@@ -58,6 +58,7 @@ DIFFICULTY = {
     "ReorderList"               : "🟡 Medium",
     "SortList"                  : "🟡 Medium",
     "FlattenLinkedList"         : "🟡 Medium",
+    "LRUCache"                  : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -108,6 +109,7 @@ PLATFORM = {
     "ReorderList"               : "LeetCode(143)",
     "SortList"                  : "LeetCode(148)",
     "FlattenLinkedList"         : "GeekForGeeks",
+    "LRUCache"                  : "LeetCode(146)",
 }
 
 def get_problems():
