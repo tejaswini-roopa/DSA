@@ -74,7 +74,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | FlattenLinkedList | GeekForGeeks | 🟡 Medium | [View](./LinkedList/FlattenLinkedList.java) |
 | 2 | LRUCache | LeetCode(146) | 🟡 Medium | [View](./LinkedList/LRUCache.java) |
 | 3 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
-| 4 | PalindromeLinkedList | InterviewBit | 🟡 Medium | [View](./LinkedList/PalindromeLinkedList.java) |
+| 4 | PalindromeLinkedList | LeetCode(234) | 🟡 Medium | [View](./LinkedList/PalindromeLinkedList.java) |
 | 5 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 6 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
 
@@ -185,7 +185,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-16 | FlattenLinkedList | LinkedList | GeekForGeeks |
 | 2026-06-16 | LRUCache | LinkedList | LeetCode(146) |
 | 2026-06-16 | LinkedListCycleII | LinkedList | LeetCode(142) |
-| 2026-06-16 | PalindromeLinkedList | LinkedList | InterviewBit |
+| 2026-06-16 | PalindromeLinkedList | LinkedList | LeetCode(234) |
 | 2026-06-16 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-06-16 | SortList | LinkedList | LeetCode(148) |
 | 2026-06-16 | AggressiveCows | BinarySearch | GeeksForGeeks |
