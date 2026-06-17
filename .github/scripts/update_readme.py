@@ -3,7 +3,7 @@ from datetime import datetime
 
 TOPICS = [
     "Arrays", "Strings", "LinkedList",
-    "StackAndQueue", "Trees", "BinarySearch",
+    "Stack","Queue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
     "Backtracking", "Greedy","Hashing",
     "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer"
@@ -60,6 +60,7 @@ DIFFICULTY = {
     "FlattenLinkedList"         : "🟡 Medium",
     "LRUCache"                  : "🟡 Medium",
     "PalindromeLinkedList"      : "🟡 Medium",
+    "BalancedParenthesis"       : "🟢 Easy",    
 }
 
 PLATFORM = {
@@ -112,6 +113,7 @@ PLATFORM = {
     "FlattenLinkedList"         : "GeekForGeeks",
     "LRUCache"                  : "LeetCode(146)",
     "PalindromeLinkedList"      : "LeetCode(234)",
+    "BalancedParenthesis"       : "LeetCode(20)",  
 }
 
 def get_problems():
