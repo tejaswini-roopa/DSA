@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-46-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-47-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -35,19 +35,20 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | Arrays | 3 | 🟡 In Progress |
 | 2 | Strings | 3 | 🟡 In Progress |
 | 3 | LinkedList | 6 | 🟡 In Progress |
-| 4 | StackAndQueue | 0 | 🔴 Not Started |
-| 5 | Trees | 0 | 🔴 Not Started |
-| 6 | BinarySearch | 7 | 🟡 In Progress |
-| 7 | DynamicProgramming | 0 | 🔴 Not Started |
-| 8 | Graphs | 0 | 🔴 Not Started |
-| 9 | Backtracking | 0 | 🔴 Not Started |
-| 10 | Greedy | 0 | 🔴 Not Started |
-| 11 | Hashing | 5 | 🟡 In Progress |
-| 12 | BitManipulation | 4 | 🟡 In Progress |
-| 13 | ModularArithmetic | 5 | 🟡 In Progress |
-| 14 | Recursion | 4 | 🟡 In Progress |
-| 15 | Sorting | 6 | 🟡 In Progress |
-| 16 | TwoPointer | 3 | 🟡 In Progress |
+| 4 | Stack | 1 | 🟡 In Progress |
+| 5 | Queue | 0 | 🔴 Not Started |
+| 6 | Trees | 0 | 🔴 Not Started |
+| 7 | BinarySearch | 7 | 🟡 In Progress |
+| 8 | DynamicProgramming | 0 | 🔴 Not Started |
+| 9 | Graphs | 0 | 🔴 Not Started |
+| 10 | Backtracking | 0 | 🔴 Not Started |
+| 11 | Greedy | 0 | 🔴 Not Started |
+| 12 | Hashing | 5 | 🟡 In Progress |
+| 13 | BitManipulation | 4 | 🟡 In Progress |
+| 14 | ModularArithmetic | 5 | 🟡 In Progress |
+| 15 | Recursion | 4 | 🟡 In Progress |
+| 16 | Sorting | 6 | 🟡 In Progress |
+| 17 | TwoPointer | 3 | 🟡 In Progress |
 
 
 ---
@@ -78,7 +79,12 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 5 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 6 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
 
-### 📁 StackAndQueue
+### 📁 Stack
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| 1 | BalancedParenthesis | LeetCode(20) | 🟢 Easy | [View](./Stack/BalancedParenthesis.java) |
+
+### 📁 Queue
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | - | Coming Soon | - | - | - |
@@ -188,6 +194,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-17 | PalindromeLinkedList | LinkedList | LeetCode(234) |
 | 2026-06-17 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-06-17 | SortList | LinkedList | LeetCode(148) |
+| 2026-06-17 | BalancedParenthesis | Stack | LeetCode(20) |
 | 2026-06-17 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-17 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-17 | KthSmallestPrice | BinarySearch | InterviewBit |
