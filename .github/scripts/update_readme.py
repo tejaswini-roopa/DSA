@@ -60,7 +60,8 @@ DIFFICULTY = {
     "FlattenLinkedList"         : "🟡 Medium",
     "LRUCache"                  : "🟡 Medium",
     "PalindromeLinkedList"      : "🟡 Medium",
-    "BalancedParenthesis"       : "🟢 Easy",    
+    "BalancedParenthesis"       : "🟢 Easy", 
+    "DoubleCharacterTrouble"    : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -113,7 +114,8 @@ PLATFORM = {
     "FlattenLinkedList"         : "GeekForGeeks",
     "LRUCache"                  : "LeetCode(146)",
     "PalindromeLinkedList"      : "LeetCode(234)",
-    "BalancedParenthesis"       : "LeetCode(20)",  
+    "BalancedParenthesis"       : "LeetCode(20)", 
+    "DoubleCharacterTrouble"    : "LeetCode(1047)", 
 }
 
 def get_problems():
