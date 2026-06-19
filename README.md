@@ -84,7 +84,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BalancedParenthesis | LeetCode(20) | 🟢 Easy | [View](./Stack/BalancedParenthesis.java) |
 | 2 | DoubleCharacterTrouble | LeetCode(1047) | 🟢 Easy | [View](./Stack/DoubleCharacterTrouble.java) |
-| 3 | LargestRectangleInHistogram | InterviewBit | 🟡 Medium | [View](./Stack/LargestRectangleInHistogram.java) |
+| 3 | LargestRectangleInHistogram | LeetCode(84) | 🔴 Hard | [View](./Stack/LargestRectangleInHistogram.java) |
 
 ### 📁 Queue
 | # | Problem | Platform | Difficulty | Solution |
@@ -198,7 +198,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-19 | SortList | LinkedList | LeetCode(148) |
 | 2026-06-19 | BalancedParenthesis | Stack | LeetCode(20) |
 | 2026-06-19 | DoubleCharacterTrouble | Stack | LeetCode(1047) |
-| 2026-06-19 | LargestRectangleInHistogram | Stack | InterviewBit |
+| 2026-06-19 | LargestRectangleInHistogram | Stack | LeetCode(84) |
 | 2026-06-19 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-19 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-19 | KthSmallestPrice | BinarySearch | InterviewBit |
