@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About This Repository...
+## 👩‍💻 About This Repository
 
 > "My GitHub streak is the only streak I maintain. 💀"
 
