@@ -63,6 +63,7 @@ DIFFICULTY = {
     "BalancedParenthesis"       : "🟢 Easy", 
     "DoubleCharacterTrouble"    : "🟢 Easy",
     "LargestRectangleInHistogram": "🔴 Hard",
+    "PerfectNumbers"             : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -117,7 +118,8 @@ PLATFORM = {
     "PalindromeLinkedList"      : "LeetCode(234)",
     "BalancedParenthesis"       : "LeetCode(20)", 
     "DoubleCharacterTrouble"    : "LeetCode(1047)", 
-    "LargestRectangleInHistogram": "LeetCode(84)", 
+    "LargestRectangleInHistogram": "LeetCode(84)",
+    "PerfectNumbers"             : "InterviewBit", 
 }
 
 def get_problems():
