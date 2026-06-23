@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-49-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-50-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -36,7 +36,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2 | Strings | 3 | 🟡 In Progress |
 | 3 | LinkedList | 6 | 🟡 In Progress |
 | 4 | Stack | 3 | 🟡 In Progress |
-| 5 | Queue | 0 | 🔴 Not Started |
+| 5 | Queue | 1 | 🟡 In Progress |
 | 6 | Trees | 0 | 🔴 Not Started |
 | 7 | BinarySearch | 7 | 🟡 In Progress |
 | 8 | DynamicProgramming | 0 | 🔴 Not Started |
@@ -89,7 +89,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 Queue
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| - | Coming Soon | - | - | - |
+| 1 | PerfectNumbers | InterviewBit | 🟡 Medium | [View](./Queue/PerfectNumbers.java) |
 
 ### 📁 Trees
 | # | Problem | Platform | Difficulty | Solution |
@@ -199,6 +199,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-23 | BalancedParenthesis | Stack | LeetCode(20) |
 | 2026-06-23 | DoubleCharacterTrouble | Stack | LeetCode(1047) |
 | 2026-06-23 | LargestRectangleInHistogram | Stack | LeetCode(84) |
+| 2026-06-23 | PerfectNumbers | Queue | InterviewBit |
 | 2026-06-23 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-23 | FindPeakElement | BinarySearch | LeetCode(162) |
 | 2026-06-23 | KthSmallestPrice | BinarySearch | InterviewBit |
