@@ -64,6 +64,7 @@ DIFFICULTY = {
     "DoubleCharacterTrouble"    : "🟢 Easy",
     "LargestRectangleInHistogram": "🔴 Hard",
     "PerfectNumbers"             : "🟡 Medium",
+    "NIntegersContaining123"     : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -120,6 +121,7 @@ PLATFORM = {
     "DoubleCharacterTrouble"    : "LeetCode(1047)", 
     "LargestRectangleInHistogram": "LeetCode(84)",
     "PerfectNumbers"             : "InterviewBit", 
+    "NIntegersContaining123"     : "InterviewBit", 
 }
 
 def get_problems():
