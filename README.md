@@ -95,7 +95,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 Trees
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | BinaryTreeFromInorderAndPreorder | InterviewBit | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
+| 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
 
 ### 📁 BinarySearch
@@ -203,7 +203,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-26 | LargestRectangleInHistogram | Stack | LeetCode(84) |
 | 2026-06-26 | NIntegersContaining123 | Queue | InterviewBit |
 | 2026-06-26 | PerfectNumbers | Queue | InterviewBit |
-| 2026-06-26 | BinaryTreeFromInorderAndPreorder | Trees | InterviewBit |
+| 2026-06-26 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
 | 2026-06-26 | InorderTraversal | Trees | LeetCode(94) |
 | 2026-06-26 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-26 | FindPeakElement | BinarySearch | LeetCode(162) |
