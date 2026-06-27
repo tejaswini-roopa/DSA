@@ -97,7 +97,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
-| 3 | VerticalOrderTraversal | InterviewBit | 🟡 Medium | [View](./Trees/VerticalOrderTraversal.java) |
+| 3 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
 
 ### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
