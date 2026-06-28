@@ -68,6 +68,7 @@ DIFFICULTY = {
     "InorderTraversal"           : "🟢 Easy",
     "BinaryTreeFromInorderAndPreorder": "🟡 Medium",
     "VerticalOrderTraversal"     : "🔴 Hard",
+    "TopViewOfBinaryTree"        : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -128,6 +129,7 @@ PLATFORM = {
     "InorderTraversal"           : "LeetCode(94)",
     "BinaryTreeFromInorderAndPreorder" : "LeetCode(105)",
     "VerticalOrderTraversal"     : "InterviewBit",
+    "TopViewOfBinaryTree"        : "GeeksForGeeks",
 }
 
 def get_problems():
