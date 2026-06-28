@@ -97,7 +97,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
-| 3 | TopViewOfBinaryTree | InterviewBit | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
+| 3 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
 | 4 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
 
 ### 📁 BinarySearch
@@ -207,7 +207,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-06-28 | PerfectNumbers | Queue | InterviewBit |
 | 2026-06-28 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
 | 2026-06-28 | InorderTraversal | Trees | LeetCode(94) |
-| 2026-06-28 | TopViewOfBinaryTree | Trees | InterviewBit |
+| 2026-06-28 | TopViewOfBinaryTree | Trees | GeeksForGeeks |
 | 2026-06-28 | VerticalOrderTraversal | Trees | InterviewBit |
 | 2026-06-28 | AggressiveCows | BinarySearch | GeeksForGeeks |
 | 2026-06-28 | FindPeakElement | BinarySearch | LeetCode(162) |
