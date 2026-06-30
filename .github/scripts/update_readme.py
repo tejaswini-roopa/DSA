@@ -70,6 +70,7 @@ DIFFICULTY = {
     "VerticalOrderTraversal"     : "🔴 Hard",
     "TopViewOfBinaryTree"        : "🟡 Medium",
     "ZigZagLevelOrderTraversal"  : "🟡 Medium",
+    "DiagonalTraversal"          : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -132,6 +133,7 @@ PLATFORM = {
     "VerticalOrderTraversal"     : "InterviewBit",
     "TopViewOfBinaryTree"        : "GeeksForGeeks",
     "ZigZagLevelOrderTraversal"  : "InterviewBit",
+    "DiagonalTraversal"          : "InterviewBit",
 }
 
 def get_problems():
