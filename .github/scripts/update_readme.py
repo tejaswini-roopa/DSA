@@ -71,6 +71,7 @@ DIFFICULTY = {
     "TopViewOfBinaryTree"        : "🟡 Medium",
     "ZigZagLevelOrderTraversal"  : "🟡 Medium",
     "DiagonalTraversal"          : "🟡 Medium",
+    "SortedArrayToBalancedBST"   : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -134,6 +135,7 @@ PLATFORM = {
     "TopViewOfBinaryTree"        : "GeeksForGeeks",
     "ZigZagLevelOrderTraversal"  : "InterviewBit",
     "DiagonalTraversal"          : "InterviewBit",
+    "SortedArrayToBalancedBST"   : "InterviewBit",
 }
 
 def get_problems():
