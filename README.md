@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-57-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-58-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -37,7 +37,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 3 | LinkedList | 6 | 🟡 In Progress |
 | 4 | Stack | 3 | 🟡 In Progress |
 | 5 | Queue | 2 | 🟡 In Progress |
-| 6 | Trees | 6 | 🟡 In Progress |
+| 6 | Trees | 7 | 🟡 In Progress |
 | 7 | BinarySearch | 7 | 🟡 In Progress |
 | 8 | DynamicProgramming | 0 | 🔴 Not Started |
 | 9 | Graphs | 0 | 🔴 Not Started |
@@ -98,9 +98,10 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | DiagonalTraversal | InterviewBit | 🟡 Medium | [View](./Trees/DiagonalTraversal.java) |
 | 3 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
-| 4 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
-| 5 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
-| 6 | ZigZagLevelOrderTraversal | InterviewBit | 🟡 Medium | [View](./Trees/ZigZagLevelOrderTraversal.java) |
+| 4 | SortedArrayToBalancedBST | InterviewBit | 🟡 Medium | [View](./Trees/SortedArrayToBalancedBST.java) |
+| 5 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
+| 6 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
+| 7 | ZigZagLevelOrderTraversal | InterviewBit | 🟡 Medium | [View](./Trees/ZigZagLevelOrderTraversal.java) |
 
 ### 📁 BinarySearch
 | # | Problem | Platform | Difficulty | Solution |
@@ -210,6 +211,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-01 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
 | 2026-07-01 | DiagonalTraversal | Trees | InterviewBit |
 | 2026-07-01 | InorderTraversal | Trees | LeetCode(94) |
+| 2026-07-01 | SortedArrayToBalancedBST | Trees | InterviewBit |
 | 2026-07-01 | TopViewOfBinaryTree | Trees | GeeksForGeeks |
 | 2026-07-01 | VerticalOrderTraversal | Trees | InterviewBit |
 | 2026-07-01 | ZigZagLevelOrderTraversal | Trees | InterviewBit |
