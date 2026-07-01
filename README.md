@@ -98,7 +98,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | DiagonalTraversal | InterviewBit | 🟡 Medium | [View](./Trees/DiagonalTraversal.java) |
 | 3 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
-| 4 | SortedArrayToBalancedBST | InterviewBit | 🟡 Medium | [View](./Trees/SortedArrayToBalancedBST.java) |
+| 4 | SortedArrayToBalancedBST | InterviewBit | 🟢 Easy | [View](./Trees/SortedArrayToBalancedBST.java) |
 | 5 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
 | 6 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
 | 7 | ZigZagLevelOrderTraversal | InterviewBit | 🟡 Medium | [View](./Trees/ZigZagLevelOrderTraversal.java) |
