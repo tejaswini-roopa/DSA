@@ -53,7 +53,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 
 ---
 
-## 🗂️ Topic Wise Problems
+### 🗂️ Topic Wise Problems
 
 ### 📁 Arrays
 | # | Problem | Platform | Difficulty | Solution |
