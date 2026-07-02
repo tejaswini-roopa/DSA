@@ -72,6 +72,7 @@ DIFFICULTY = {
     "ZigZagLevelOrderTraversal"  : "🟡 Medium",
     "DiagonalTraversal"          : "🟡 Medium",
     "SortedArrayToBalancedBST"   : "🟢 Easy",
+    "LowestCommonAncestorBST"    : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -136,6 +137,7 @@ PLATFORM = {
     "ZigZagLevelOrderTraversal"  : "InterviewBit",
     "DiagonalTraversal"          : "InterviewBit",
     "SortedArrayToBalancedBST"   : "InterviewBit",
+    "LowestCommonAncestorBST"    : "LeetCode(235)",
 }
 
 def get_problems():
