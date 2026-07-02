@@ -98,7 +98,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | DiagonalTraversal | InterviewBit | 🟡 Medium | [View](./Trees/DiagonalTraversal.java) |
 | 3 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
-| 4 | LowestCommonAncestorBST | InterviewBit | 🟡 Medium | [View](./Trees/LowestCommonAncestorBST.java) |
+| 4 | LowestCommonAncestorBST | LeetCode(235) | 🟡 Medium | [View](./Trees/LowestCommonAncestorBST.java) |
 | 5 | SortedArrayToBalancedBST | InterviewBit | 🟢 Easy | [View](./Trees/SortedArrayToBalancedBST.java) |
 | 6 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
 | 7 | VerticalOrderTraversal | InterviewBit | 🔴 Hard | [View](./Trees/VerticalOrderTraversal.java) |
@@ -212,7 +212,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-02 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
 | 2026-07-02 | DiagonalTraversal | Trees | InterviewBit |
 | 2026-07-02 | InorderTraversal | Trees | LeetCode(94) |
-| 2026-07-02 | LowestCommonAncestorBST | Trees | InterviewBit |
+| 2026-07-02 | LowestCommonAncestorBST | Trees | LeetCode(235) |
 | 2026-07-02 | SortedArrayToBalancedBST | Trees | InterviewBit |
 | 2026-07-02 | TopViewOfBinaryTree | Trees | GeeksForGeeks |
 | 2026-07-02 | VerticalOrderTraversal | Trees | InterviewBit |
