@@ -73,6 +73,7 @@ DIFFICULTY = {
     "DiagonalTraversal"          : "🟡 Medium",
     "SortedArrayToBalancedBST"   : "🟢 Easy",
     "LowestCommonAncestorBST"    : "🟡 Medium",
+    "DiameterOfBinaryTree"       : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -138,6 +139,7 @@ PLATFORM = {
     "DiagonalTraversal"          : "InterviewBit",
     "SortedArrayToBalancedBST"   : "InterviewBit",
     "LowestCommonAncestorBST"    : "LeetCode(235)",
+    "DiameterOfBinaryTree"       : "LeetCode(543)",
 }
 
 def get_problems():
