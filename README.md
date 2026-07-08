@@ -97,7 +97,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
 | 2 | DiagonalTraversal | InterviewBit | 🟡 Medium | [View](./Trees/DiagonalTraversal.java) |
-| 3 | DiameterOfBinaryTree | InterviewBit | 🟡 Medium | [View](./Trees/DiameterOfBinaryTree.java) |
+| 3 | DiameterOfBinaryTree | LeetCode(543) | 🟢 Easy | [View](./Trees/DiameterOfBinaryTree.java) |
 | 4 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
 | 5 | LowestCommonAncestorBST | LeetCode(235) | 🟡 Medium | [View](./Trees/LowestCommonAncestorBST.java) |
 | 6 | SortedArrayToBalancedBST | InterviewBit | 🟢 Easy | [View](./Trees/SortedArrayToBalancedBST.java) |
@@ -212,7 +212,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-08 | PerfectNumbers | Queue | InterviewBit |
 | 2026-07-08 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
 | 2026-07-08 | DiagonalTraversal | Trees | InterviewBit |
-| 2026-07-08 | DiameterOfBinaryTree | Trees | InterviewBit |
+| 2026-07-08 | DiameterOfBinaryTree | Trees | LeetCode(543) |
 | 2026-07-08 | InorderTraversal | Trees | LeetCode(94) |
 | 2026-07-08 | LowestCommonAncestorBST | Trees | LeetCode(235) |
 | 2026-07-08 | SortedArrayToBalancedBST | Trees | InterviewBit |
