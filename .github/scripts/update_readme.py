@@ -74,6 +74,7 @@ DIFFICULTY = {
     "SortedArrayToBalancedBST"   : "🟢 Easy",
     "LowestCommonAncestorBST"    : "🟡 Medium",
     "DiameterOfBinaryTree"       : "🟢 Easy",
+    "RecoverBST"                 : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -140,6 +141,7 @@ PLATFORM = {
     "SortedArrayToBalancedBST"   : "InterviewBit",
     "LowestCommonAncestorBST"    : "LeetCode(235)",
     "DiameterOfBinaryTree"       : "LeetCode(543)",
+    "RecoverBST"                 : "LeetCode(99)",
 }
 
 def get_problems():
