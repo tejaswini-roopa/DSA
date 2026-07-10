@@ -75,6 +75,7 @@ DIFFICULTY = {
     "LowestCommonAncestorBST"    : "🟡 Medium",
     "DiameterOfBinaryTree"       : "🟢 Easy",
     "RecoverBST"                 : "🟡 Medium",
+    "BinaryTreeMaximumPathSum"   : "🔴 Hard",
 }
 
 PLATFORM = {
@@ -142,6 +143,7 @@ PLATFORM = {
     "LowestCommonAncestorBST"    : "LeetCode(235)",
     "DiameterOfBinaryTree"       : "LeetCode(543)",
     "RecoverBST"                 : "LeetCode(99)",
+    "BinaryTreeMaximumPathSum"   : "LeetCode(124)",
 }
 
 def get_problems():
