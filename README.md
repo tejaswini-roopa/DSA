@@ -96,7 +96,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | BinaryTreeFromInorderAndPreorder | LeetCode(105) | 🟡 Medium | [View](./Trees/BinaryTreeFromInorderAndPreorder.java) |
-| 2 | BinaryTreeMaximumPathSum | InterviewBit | 🟡 Medium | [View](./Trees/BinaryTreeMaximumPathSum.java) |
+| 2 | BinaryTreeMaximumPathSum | LeetCode(124) | 🔴 Hard | [View](./Trees/BinaryTreeMaximumPathSum.java) |
 | 3 | DiagonalTraversal | InterviewBit | 🟡 Medium | [View](./Trees/DiagonalTraversal.java) |
 | 4 | DiameterOfBinaryTree | LeetCode(543) | 🟢 Easy | [View](./Trees/DiameterOfBinaryTree.java) |
 | 5 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
@@ -213,7 +213,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-10 | NIntegersContaining123 | Queue | InterviewBit |
 | 2026-07-10 | PerfectNumbers | Queue | InterviewBit |
 | 2026-07-10 | BinaryTreeFromInorderAndPreorder | Trees | LeetCode(105) |
-| 2026-07-10 | BinaryTreeMaximumPathSum | Trees | InterviewBit |
+| 2026-07-10 | BinaryTreeMaximumPathSum | Trees | LeetCode(124) |
 | 2026-07-10 | DiagonalTraversal | Trees | InterviewBit |
 | 2026-07-10 | DiameterOfBinaryTree | Trees | LeetCode(543) |
 | 2026-07-10 | InorderTraversal | Trees | LeetCode(94) |
