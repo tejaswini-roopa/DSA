@@ -101,7 +101,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 4 | DiameterOfBinaryTree | LeetCode(543) | 🟢 Easy | [View](./Trees/DiameterOfBinaryTree.java) |
 | 5 | InorderTraversal | LeetCode(94) | 🟢 Easy | [View](./Trees/InorderTraversal.java) |
 | 6 | LowestCommonAncestorBST | LeetCode(235) | 🟡 Medium | [View](./Trees/LowestCommonAncestorBST.java) |
-| 7 | PathSumIII | InterviewBit | 🟡 Medium | [View](./Trees/PathSumIII.java) |
+| 7 | PathSumIII | LeetCode(437) | 🟡 Medium | [View](./Trees/PathSumIII.java) |
 | 8 | RecoverBST | LeetCode(99) | 🟡 Medium | [View](./Trees/RecoverBST.java) |
 | 9 | SortedArrayToBalancedBST | InterviewBit | 🟢 Easy | [View](./Trees/SortedArrayToBalancedBST.java) |
 | 10 | TopViewOfBinaryTree | GeeksForGeeks | 🟡 Medium | [View](./Trees/TopViewOfBinaryTree.java) |
@@ -219,7 +219,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-11 | DiameterOfBinaryTree | Trees | LeetCode(543) |
 | 2026-07-11 | InorderTraversal | Trees | LeetCode(94) |
 | 2026-07-11 | LowestCommonAncestorBST | Trees | LeetCode(235) |
-| 2026-07-11 | PathSumIII | Trees | InterviewBit |
+| 2026-07-11 | PathSumIII | Trees | LeetCode(437) |
 | 2026-07-11 | RecoverBST | Trees | LeetCode(99) |
 | 2026-07-11 | SortedArrayToBalancedBST | Trees | InterviewBit |
 | 2026-07-11 | TopViewOfBinaryTree | Trees | GeeksForGeeks |
