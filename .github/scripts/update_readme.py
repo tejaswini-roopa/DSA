@@ -77,6 +77,7 @@ DIFFICULTY = {
     "RecoverBST"                 : "🟡 Medium",
     "BinaryTreeMaximumPathSum"   : "🔴 Hard",
     "PathSumIII"                 : "🟡 Medium",
+    "LongestRepeatingCharacterReplacement"  : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -146,6 +147,7 @@ PLATFORM = {
     "RecoverBST"                 : "LeetCode(99)",
     "BinaryTreeMaximumPathSum"   : "LeetCode(124)",
     "PathSumIII"                 : "LeetCode(437)",
+    "LongestRepeatingCharacterReplacement"  : "LeetCode(424)",
 }
 
 def get_problems():
