@@ -67,7 +67,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | BoringSubstring | InterviewBit | 🟡 Medium | [View](./Strings/BoringSubstring.java) |
 | 2 | CountOccurrencesOfAnagrams | GeeksForGeeks | 🟡 Medium | [View](./Strings/CountOccurrencesOfAnagrams.java) |
-| 3 | LongestRepeatingCharacterReplacement | InterviewBit | 🟡 Medium | [View](./Strings/LongestRepeatingCharacterReplacement.java) |
+| 3 | LongestRepeatingCharacterReplacement | LeetCode(424) | 🟡 Medium | [View](./Strings/LongestRepeatingCharacterReplacement.java) |
 | 4 | MinimumWindowSubstring | LeetCode(76) | 🔴 Hard | [View](./Strings/MinimumWindowSubstring.java) |
 
 ### 📁 LinkedList
@@ -202,7 +202,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-13 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-07-13 | BoringSubstring | Strings | InterviewBit |
 | 2026-07-13 | CountOccurrencesOfAnagrams | Strings | GeeksForGeeks |
-| 2026-07-13 | LongestRepeatingCharacterReplacement | Strings | InterviewBit |
+| 2026-07-13 | LongestRepeatingCharacterReplacement | Strings | LeetCode(424) |
 | 2026-07-13 | MinimumWindowSubstring | Strings | LeetCode(76) |
 | 2026-07-13 | FlattenLinkedList | LinkedList | GeekForGeeks |
 | 2026-07-13 | LRUCache | LinkedList | LeetCode(146) |
