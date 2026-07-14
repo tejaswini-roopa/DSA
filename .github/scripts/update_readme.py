@@ -6,7 +6,7 @@ TOPICS = [
     "Stack","Queue", "Trees", "BinarySearch",
     "DynamicProgramming", "Graphs",
     "Backtracking", "Greedy","Hashing",
-    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer"
+    "BitManipulation","ModularArithmetic","Recursion","Sorting","TwoPointer","Heaps"
 ]
 
 DIFFICULTY = {
@@ -78,6 +78,7 @@ DIFFICULTY = {
     "BinaryTreeMaximumPathSum"   : "🔴 Hard",
     "PathSumIII"                 : "🟡 Medium",
     "LongestRepeatingCharacterReplacement"  : "🟡 Medium",
+    "MinimumCostOfRopes"         : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -148,6 +149,7 @@ PLATFORM = {
     "BinaryTreeMaximumPathSum"   : "LeetCode(124)",
     "PathSumIII"                 : "LeetCode(437)",
     "LongestRepeatingCharacterReplacement"  : "LeetCode(424)",
+    "MinimumCostOfRopes"         : "GeeksForGeeks",
 }
 
 def get_problems():
