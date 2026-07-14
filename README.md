@@ -49,6 +49,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 15 | Recursion | 4 | 🟡 In Progress |
 | 16 | Sorting | 6 | 🟡 In Progress |
 | 17 | TwoPointer | 3 | 🟡 In Progress |
+| 18 | Heaps | 0 | 🔴 Not Started |
 
 
 ---
@@ -190,6 +191,11 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | ContainerWithMostWater | LeetCode(11) | 🟡 Medium | [View](./TwoPointer/ContainerWithMostWater.java) |
 | 2 | KDiffPairsInArray | LeetCode(532) | 🟡 Medium | [View](./TwoPointer/KDiffPairsInArray.java) |
 | 3 | TwoSum | GeeksForGeeks | 🟢 Easy | [View](./TwoPointer/TwoSum.java) |
+
+### 📁 Heaps
+| # | Problem | Platform | Difficulty | Solution |
+|---|---------|----------|------------|----------|
+| - | Coming Soon | - | - | - |
 
 
 ---
