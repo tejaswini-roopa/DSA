@@ -39,6 +39,8 @@ public class DiameterOfBinaryTree {
         //    2   3
         //   / \
         //  4   5
+
+        
         TreeNode root1 = new TreeNode(1);
         root1.left = new TreeNode(2);
         root1.right = new TreeNode(3);
