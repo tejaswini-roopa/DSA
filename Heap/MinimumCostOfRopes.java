@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 
 public class MinimumCostOfRopes {
 
-    public static int minCost(int[] arr) {
+    public static int  minCost(int[] arr) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         for (int num : arr) {
             pq.add(num);
