@@ -1,5 +1,6 @@
 import java.util.PriorityQueue;
 
+
 public class MinimumCostOfRopes {
 
     public static int  minCost(int[] arr) {
