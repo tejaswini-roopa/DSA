@@ -1,5 +1,6 @@
 public class DiameterOfBinaryTree {
 
+    
     static class TreeNode {
         int val;
         TreeNode left;
