@@ -80,6 +80,7 @@ DIFFICULTY = {
     "LongestRepeatingCharacterReplacement"  : "🟡 Medium",
     "MinimumCostOfRopes"         : "🟡 Medium",
     "Permutations"               : "🟡 Medium",
+    "ClimbingStairs"             : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -152,6 +153,7 @@ PLATFORM = {
     "LongestRepeatingCharacterReplacement"  : "LeetCode(424)",
     "MinimumCostOfRopes"         : "GeeksForGeeks",
     "Permutations"               : "LeetCode(46)",
+    "ClimbingStairs"             : "LeetCode(70)",
 
 }
 
