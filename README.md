@@ -124,7 +124,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| 1 | ClimbingStairs | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/ClimbingStairs.java) |
+| 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
 
 ### 📁 Graphs
 | # | Problem | Platform | Difficulty | Solution |
@@ -240,7 +240,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-25 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-07-25 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-07-25 | SpecialInteger | BinarySearch | LeetCode |
-| 2026-07-25 | ClimbingStairs | DynamicProgramming | InterviewBit |
+| 2026-07-25 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
 | 2026-07-25 | CountRectangles | Hashing | GeeksForGeeks |
 | 2026-07-25 | CountRightTriangles | Hashing | InterviewBit |
 | 2026-07-25 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
