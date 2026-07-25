@@ -79,6 +79,7 @@ DIFFICULTY = {
     "PathSumIII"                 : "🟡 Medium",
     "LongestRepeatingCharacterReplacement"  : "🟡 Medium",
     "MinimumCostOfRopes"         : "🟡 Medium",
+    "Permutations"               : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -150,6 +151,8 @@ PLATFORM = {
     "PathSumIII"                 : "LeetCode(437)",
     "LongestRepeatingCharacterReplacement"  : "LeetCode(424)",
     "MinimumCostOfRopes"         : "GeeksForGeeks",
+    "Permutations"               : "LeetCode(46)",
+
 }
 
 def get_problems():
