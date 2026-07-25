@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/w/tejaswini-roopa/DSA?color=brightgreen&label=Weekly%20Commits&style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/tejaswini-roopa/DSA?color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Total%20Problems-64-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Problems-65-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
@@ -39,7 +39,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 5 | Queue | 2 | 🟡 In Progress |
 | 6 | Trees | 12 | 🟢 Done |
 | 7 | BinarySearch | 7 | 🟡 In Progress |
-| 8 | DynamicProgramming | 0 | 🔴 Not Started |
+| 8 | DynamicProgramming | 1 | 🟡 In Progress |
 | 9 | Graphs | 0 | 🔴 Not Started |
 | 10 | Backtracking | 0 | 🔴 Not Started |
 | 11 | Greedy | 0 | 🔴 Not Started |
@@ -124,7 +124,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 ### 📁 DynamicProgramming
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
-| - | Coming Soon | - | - | - |
+| 1 | ClimbingStairs | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/ClimbingStairs.java) |
 
 ### 📁 Graphs
 | # | Problem | Platform | Difficulty | Solution |
@@ -240,6 +240,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-25 | SearchRange | BinarySearch | LeetCode(34) |
 | 2026-07-25 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-07-25 | SpecialInteger | BinarySearch | LeetCode |
+| 2026-07-25 | ClimbingStairs | DynamicProgramming | InterviewBit |
 | 2026-07-25 | CountRectangles | Hashing | GeeksForGeeks |
 | 2026-07-25 | CountRightTriangles | Hashing | InterviewBit |
 | 2026-07-25 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
