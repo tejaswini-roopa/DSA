@@ -81,6 +81,7 @@ DIFFICULTY = {
     "MinimumCostOfRopes"         : "🟡 Medium",
     "Permutations"               : "🟡 Medium",
     "ClimbingStairs"             : "🟢 Easy",
+    "UniquePathsInAGrid"         : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -154,6 +155,7 @@ PLATFORM = {
     "MinimumCostOfRopes"         : "GeeksForGeeks",
     "Permutations"               : "LeetCode(46)",
     "ClimbingStairs"             : "LeetCode(70)",
+    "UniquePathsInAGrid"         : "InterviewBit",
 
 }
 
