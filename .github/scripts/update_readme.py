@@ -82,6 +82,7 @@ DIFFICULTY = {
     "Permutations"               : "🟡 Medium",
     "ClimbingStairs"             : "🟢 Easy",
     "UniquePathsInAGrid"         : "🟡 Medium",
+    "UnboundedKnapsack"          : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -156,6 +157,7 @@ PLATFORM = {
     "Permutations"               : "LeetCode(46)",
     "ClimbingStairs"             : "LeetCode(70)",
     "UniquePathsInAGrid"         : "InterviewBit",
+    "UnboundedKnapsack"          : "InterviewBit",
 
 }
 
