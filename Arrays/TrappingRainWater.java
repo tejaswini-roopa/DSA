@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 class RainwaterTrapper {
     public int trap(final List<Integer> heights) {
         int n = heights.size();
