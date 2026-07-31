@@ -125,7 +125,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
-| 2 | CoinChange | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
+| 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
 | 3 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 4 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
 
@@ -244,7 +244,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-07-31 | SortedInsertPosition | BinarySearch | LeetCode(35) |
 | 2026-07-31 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-07-31 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
-| 2026-07-31 | CoinChange | DynamicProgramming | InterviewBit |
+| 2026-07-31 | CoinChange | DynamicProgramming | LeetCode(322) |
 | 2026-07-31 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-07-31 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
 | 2026-07-31 | CountRectangles | Hashing | GeeksForGeeks |
