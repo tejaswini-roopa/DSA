@@ -28,7 +28,6 @@ class RainwaterTrapper {
                 totalWater += waterAtIndex;
             }
         }
-
         return totalWater;
     }
 }
