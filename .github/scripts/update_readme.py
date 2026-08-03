@@ -84,6 +84,7 @@ DIFFICULTY = {
     "UniquePathsInAGrid"         : "🟡 Medium",
     "UnboundedKnapsack"          : "🟡 Medium",
     "CoinChange"                 : "🟡 Medium",
+    "ZeroOneKnapsack"            : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -160,6 +161,7 @@ PLATFORM = {
     "UniquePathsInAGrid"         : "InterviewBit",
     "UnboundedKnapsack"          : "InterviewBit",
     "CoinChange"                 : "LeetCode(322)",
+    "ZeroOneKnapsack"            : "GeeksForGeeks",
 
 }
 
