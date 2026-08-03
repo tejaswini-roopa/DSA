@@ -128,7 +128,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
 | 3 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 4 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
-| 5 | ZeroOneKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
+| 5 | ZeroOneKnapsack | GeeksForGeeks | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
 
 ### 📁 Graphs
 | # | Problem | Platform | Difficulty | Solution |
@@ -248,7 +248,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-03 | CoinChange | DynamicProgramming | LeetCode(322) |
 | 2026-08-03 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-08-03 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
-| 2026-08-03 | ZeroOneKnapsack | DynamicProgramming | InterviewBit |
+| 2026-08-03 | ZeroOneKnapsack | DynamicProgramming | GeeksForGeeks |
 | 2026-08-03 | CountRectangles | Hashing | GeeksForGeeks |
 | 2026-08-03 | CountRightTriangles | Hashing | InterviewBit |
 | 2026-08-03 | LargestSubarrayZeroSum | Hashing | GeeksForGeeks |
