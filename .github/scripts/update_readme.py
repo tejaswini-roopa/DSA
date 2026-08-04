@@ -85,6 +85,7 @@ DIFFICULTY = {
     "UnboundedKnapsack"          : "🟡 Medium",
     "CoinChange"                 : "🟡 Medium",
     "ZeroOneKnapsack"            : "🟡 Medium",
+    "MinCostClimbingStairs"      : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -162,6 +163,7 @@ PLATFORM = {
     "UnboundedKnapsack"          : "InterviewBit",
     "CoinChange"                 : "LeetCode(322)",
     "ZeroOneKnapsack"            : "GeeksForGeeks",
+    "MinCostClimbingStairs"      : "LeetCode(746)",
 
 }
 
