@@ -126,7 +126,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
 | 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
-| 3 | MinCostClimbingStairs | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
+| 3 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
 | 4 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 5 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
 | 6 | ZeroOneKnapsack | GeeksForGeeks | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
@@ -247,7 +247,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-04 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-08-04 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
 | 2026-08-04 | CoinChange | DynamicProgramming | LeetCode(322) |
-| 2026-08-04 | MinCostClimbingStairs | DynamicProgramming | InterviewBit |
+| 2026-08-04 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
 | 2026-08-04 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-08-04 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
 | 2026-08-04 | ZeroOneKnapsack | DynamicProgramming | GeeksForGeeks |
