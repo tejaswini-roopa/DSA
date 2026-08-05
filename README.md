@@ -126,7 +126,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
 | 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
-| 3 | LongestCommonSubsequence | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
+| 3 | LongestCommonSubsequence | LeetCode(1143) | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
 | 4 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
 | 5 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 6 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
@@ -248,7 +248,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-05 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-08-05 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
 | 2026-08-05 | CoinChange | DynamicProgramming | LeetCode(322) |
-| 2026-08-05 | LongestCommonSubsequence | DynamicProgramming | InterviewBit |
+| 2026-08-05 | LongestCommonSubsequence | DynamicProgramming | LeetCode(1143) |
 | 2026-08-05 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
 | 2026-08-05 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-08-05 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
