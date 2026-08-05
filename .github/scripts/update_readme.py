@@ -86,6 +86,7 @@ DIFFICULTY = {
     "CoinChange"                 : "🟡 Medium",
     "ZeroOneKnapsack"            : "🟡 Medium",
     "MinCostClimbingStairs"      : "🟢 Easy",
+    "LongestCommonSubsequence"   : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -164,6 +165,7 @@ PLATFORM = {
     "CoinChange"                 : "LeetCode(322)",
     "ZeroOneKnapsack"            : "GeeksForGeeks",
     "MinCostClimbingStairs"      : "LeetCode(746)",
+    "LongestCommonSubsequence"   : "LeetCode(1143)",
 
 }
 
