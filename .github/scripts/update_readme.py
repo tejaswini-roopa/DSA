@@ -88,6 +88,7 @@ DIFFICULTY = {
     "MinCostClimbingStairs"      : "🟢 Easy",
     "LongestCommonSubsequence"   : "🟡 Medium",
     "EditDistance"               : "🟡 Medium",
+    "CountingBits"               : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -168,6 +169,7 @@ PLATFORM = {
     "MinCostClimbingStairs"      : "LeetCode(746)",
     "LongestCommonSubsequence"   : "LeetCode(1143)",
     "EditDistance"               : "LeetCode(72)",
+    "CountingBits"               : "LeetCode(338)",
 
 }
 
