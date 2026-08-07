@@ -126,7 +126,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 |---|---------|----------|------------|----------|
 | 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
 | 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
-| 3 | CountingBits | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/CountingBits.java) |
+| 3 | CountingBits | LeetCode(338) | 🟢 Easy | [View](./DynamicProgramming/CountingBits.java) |
 | 4 | EditDistance | LeetCode(72) | 🟡 Medium | [View](./DynamicProgramming/EditDistance.java) |
 | 5 | LongestCommonSubsequence | LeetCode(1143) | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
 | 6 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
@@ -250,7 +250,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-07 | SpecialInteger | BinarySearch | LeetCode |
 | 2026-08-07 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
 | 2026-08-07 | CoinChange | DynamicProgramming | LeetCode(322) |
-| 2026-08-07 | CountingBits | DynamicProgramming | InterviewBit |
+| 2026-08-07 | CountingBits | DynamicProgramming | LeetCode(338) |
 | 2026-08-07 | EditDistance | DynamicProgramming | LeetCode(72) |
 | 2026-08-07 | LongestCommonSubsequence | DynamicProgramming | LeetCode(1143) |
 | 2026-08-07 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
