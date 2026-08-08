@@ -10,7 +10,6 @@ class SingleNumberFinder {
         return ans;
     }
 }
-
 public class SingleNumber {
     public static void main(String[] args) {
         SingleNumberFinder finder = new SingleNumberFinder();
