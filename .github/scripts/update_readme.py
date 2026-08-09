@@ -89,6 +89,7 @@ DIFFICULTY = {
     "LongestCommonSubsequence"   : "🟡 Medium",
     "EditDistance"               : "🟡 Medium",
     "CountingBits"               : "🟢 Easy",
+    "DivisorGame" : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -170,6 +171,7 @@ PLATFORM = {
     "LongestCommonSubsequence"   : "LeetCode(1143)",
     "EditDistance"               : "LeetCode(72)",
     "CountingBits"               : "LeetCode(338)",
+    "DivisorGame" : "LeetCode(1025)",
 
 }
 
