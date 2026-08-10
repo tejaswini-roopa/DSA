@@ -90,6 +90,8 @@ DIFFICULTY = {
     "EditDistance"               : "🟡 Medium",
     "CountingBits"               : "🟢 Easy",
     "DivisorGame" : "🟢 Easy",
+    "PascalsTriangle" : "🟢 Easy",
+
 }
 
 PLATFORM = {
@@ -172,6 +174,7 @@ PLATFORM = {
     "EditDistance"               : "LeetCode(72)",
     "CountingBits"               : "LeetCode(338)",
     "DivisorGame" : "LeetCode(1025)",
+    "PascalsTriangle" : "LeetCode(118)",
 
 }
 
