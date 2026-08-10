@@ -131,7 +131,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 5 | EditDistance | LeetCode(72) | 🟡 Medium | [View](./DynamicProgramming/EditDistance.java) |
 | 6 | LongestCommonSubsequence | LeetCode(1143) | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
 | 7 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
-| 8 | PascalsTriangle | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/PascalsTriangle.java) |
+| 8 | PascalsTriangle | LeetCode(118) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangle.java) |
 | 9 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 10 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
 | 11 | ZeroOneKnapsack | GeeksForGeeks | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
@@ -257,7 +257,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-10 | EditDistance | DynamicProgramming | LeetCode(72) |
 | 2026-08-10 | LongestCommonSubsequence | DynamicProgramming | LeetCode(1143) |
 | 2026-08-10 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
-| 2026-08-10 | PascalsTriangle | DynamicProgramming | InterviewBit |
+| 2026-08-10 | PascalsTriangle | DynamicProgramming | LeetCode(118) |
 | 2026-08-10 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-08-10 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
 | 2026-08-10 | ZeroOneKnapsack | DynamicProgramming | GeeksForGeeks |
