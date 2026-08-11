@@ -91,6 +91,7 @@ DIFFICULTY = {
     "CountingBits"               : "🟢 Easy",
     "DivisorGame" : "🟢 Easy",
     "PascalsTriangle" : "🟢 Easy",
+    "UniqueBSTs" : "🟡 Medium",
 
 }
 
@@ -175,6 +176,7 @@ PLATFORM = {
     "CountingBits"               : "LeetCode(338)",
     "DivisorGame" : "LeetCode(1025)",
     "PascalsTriangle" : "LeetCode(118)",
+    "UniqueBSTs" : "LeetCode(96)",
 
 }
 
