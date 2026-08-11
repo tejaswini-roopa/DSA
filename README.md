@@ -133,7 +133,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 7 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
 | 8 | PascalsTriangle | LeetCode(118) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangle.java) |
 | 9 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
-| 10 | UniqueBSTs | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniqueBSTs.java) |
+| 10 | UniqueBSTs | LeetCode(96) | 🟡 Medium | [View](./DynamicProgramming/UniqueBSTs.java) |
 | 11 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
 | 12 | ZeroOneKnapsack | GeeksForGeeks | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
 
@@ -260,7 +260,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-11 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
 | 2026-08-11 | PascalsTriangle | DynamicProgramming | LeetCode(118) |
 | 2026-08-11 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
-| 2026-08-11 | UniqueBSTs | DynamicProgramming | InterviewBit |
+| 2026-08-11 | UniqueBSTs | DynamicProgramming | LeetCode(96) |
 | 2026-08-11 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
 | 2026-08-11 | ZeroOneKnapsack | DynamicProgramming | GeeksForGeeks |
 | 2026-08-11 | CountRectangles | Hashing | GeeksForGeeks |
