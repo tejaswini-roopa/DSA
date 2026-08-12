@@ -92,6 +92,8 @@ DIFFICULTY = {
     "DivisorGame" : "🟢 Easy",
     "PascalsTriangle" : "🟢 Easy",
     "UniqueBSTs" : "🟡 Medium",
+    "LongestPalindromicSubsequence" : "🟡 Medium",
+
 
 }
 
@@ -177,7 +179,7 @@ PLATFORM = {
     "DivisorGame" : "LeetCode(1025)",
     "PascalsTriangle" : "LeetCode(118)",
     "UniqueBSTs" : "LeetCode(96)",
-
+    "LongestPalindromicSubsequence" : "LeetCode(516)",
 }
 
 def get_problems():
