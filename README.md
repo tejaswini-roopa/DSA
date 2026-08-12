@@ -130,7 +130,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 4 | DivisorGame | LeetCode(1025) | 🟢 Easy | [View](./DynamicProgramming/DivisorGame.java) |
 | 5 | EditDistance | LeetCode(72) | 🟡 Medium | [View](./DynamicProgramming/EditDistance.java) |
 | 6 | LongestCommonSubsequence | LeetCode(1143) | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
-| 7 | LongestPalindromicSubsequence | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/LongestPalindromicSubsequence.java) |
+| 7 | LongestPalindromicSubsequence | LeetCode(516) | 🟡 Medium | [View](./DynamicProgramming/LongestPalindromicSubsequence.java) |
 | 8 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
 | 9 | PascalsTriangle | LeetCode(118) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangle.java) |
 | 10 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
@@ -258,7 +258,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-12 | DivisorGame | DynamicProgramming | LeetCode(1025) |
 | 2026-08-12 | EditDistance | DynamicProgramming | LeetCode(72) |
 | 2026-08-12 | LongestCommonSubsequence | DynamicProgramming | LeetCode(1143) |
-| 2026-08-12 | LongestPalindromicSubsequence | DynamicProgramming | InterviewBit |
+| 2026-08-12 | LongestPalindromicSubsequence | DynamicProgramming | LeetCode(516) |
 | 2026-08-12 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
 | 2026-08-12 | PascalsTriangle | DynamicProgramming | LeetCode(118) |
 | 2026-08-12 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
