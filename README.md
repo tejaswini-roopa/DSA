@@ -133,7 +133,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 7 | LongestPalindromicSubsequence | LeetCode(516) | 🟡 Medium | [View](./DynamicProgramming/LongestPalindromicSubsequence.java) |
 | 8 | MinCostClimbingStairs | LeetCode(746) | 🟢 Easy | [View](./DynamicProgramming/MinCostClimbingStairs.java) |
 | 9 | PascalsTriangle | LeetCode(118) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangle.java) |
-| 10 | PascalsTriangleRow | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/PascalsTriangleRow.java) |
+| 10 | PascalsTriangleRow | LeetCode(119) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangleRow.java) |
 | 11 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 12 | UniqueBSTs | LeetCode(96) | 🟡 Medium | [View](./DynamicProgramming/UniqueBSTs.java) |
 | 13 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
@@ -262,7 +262,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-13 | LongestPalindromicSubsequence | DynamicProgramming | LeetCode(516) |
 | 2026-08-13 | MinCostClimbingStairs | DynamicProgramming | LeetCode(746) |
 | 2026-08-13 | PascalsTriangle | DynamicProgramming | LeetCode(118) |
-| 2026-08-13 | PascalsTriangleRow | DynamicProgramming | InterviewBit |
+| 2026-08-13 | PascalsTriangleRow | DynamicProgramming | LeetCode(119) |
 | 2026-08-13 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-08-13 | UniqueBSTs | DynamicProgramming | LeetCode(96) |
 | 2026-08-13 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
