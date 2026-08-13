@@ -93,7 +93,7 @@ DIFFICULTY = {
     "PascalsTriangle" : "🟢 Easy",
     "UniqueBSTs" : "🟡 Medium",
     "LongestPalindromicSubsequence" : "🟡 Medium",
-
+    "PascalsTriangleRow" : "🟢 Easy",
 
 }
 
@@ -180,6 +180,7 @@ PLATFORM = {
     "PascalsTriangle" : "LeetCode(118)",
     "UniqueBSTs" : "LeetCode(96)",
     "LongestPalindromicSubsequence" : "LeetCode(516)",
+    "PascalsTriangleRow" : "LeetCode(119)",
 }
 
 def get_problems():
