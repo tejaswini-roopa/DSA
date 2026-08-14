@@ -94,6 +94,7 @@ DIFFICULTY = {
     "UniqueBSTs" : "🟡 Medium",
     "LongestPalindromicSubsequence" : "🟡 Medium",
     "PascalsTriangleRow" : "🟢 Easy",
+    "DecodeWays" : "🟡 Medium",
 
 }
 
@@ -181,6 +182,7 @@ PLATFORM = {
     "UniqueBSTs" : "LeetCode(96)",
     "LongestPalindromicSubsequence" : "LeetCode(516)",
     "PascalsTriangleRow" : "LeetCode(119)",
+    "DecodeWays" : "LeetCode(91)",
 }
 
 def get_problems():
