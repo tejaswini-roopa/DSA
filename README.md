@@ -127,7 +127,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 1 | ClimbingStairs | LeetCode(70) | 🟢 Easy | [View](./DynamicProgramming/ClimbingStairs.java) |
 | 2 | CoinChange | LeetCode(322) | 🟡 Medium | [View](./DynamicProgramming/CoinChange.java) |
 | 3 | CountingBits | LeetCode(338) | 🟢 Easy | [View](./DynamicProgramming/CountingBits.java) |
-| 4 | DecodeWays | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/DecodeWays.java) |
+| 4 | DecodeWays | LeetCode(91) | 🟡 Medium | [View](./DynamicProgramming/DecodeWays.java) |
 | 5 | DivisorGame | LeetCode(1025) | 🟢 Easy | [View](./DynamicProgramming/DivisorGame.java) |
 | 6 | EditDistance | LeetCode(72) | 🟡 Medium | [View](./DynamicProgramming/EditDistance.java) |
 | 7 | LongestCommonSubsequence | LeetCode(1143) | 🟡 Medium | [View](./DynamicProgramming/LongestCommonSubsequence.java) |
@@ -257,7 +257,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-14 | ClimbingStairs | DynamicProgramming | LeetCode(70) |
 | 2026-08-14 | CoinChange | DynamicProgramming | LeetCode(322) |
 | 2026-08-14 | CountingBits | DynamicProgramming | LeetCode(338) |
-| 2026-08-14 | DecodeWays | DynamicProgramming | InterviewBit |
+| 2026-08-14 | DecodeWays | DynamicProgramming | LeetCode(91) |
 | 2026-08-14 | DivisorGame | DynamicProgramming | LeetCode(1025) |
 | 2026-08-14 | EditDistance | DynamicProgramming | LeetCode(72) |
 | 2026-08-14 | LongestCommonSubsequence | DynamicProgramming | LeetCode(1143) |
