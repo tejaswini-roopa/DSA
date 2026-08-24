@@ -95,7 +95,7 @@ DIFFICULTY = {
     "LongestPalindromicSubsequence" : "🟡 Medium",
     "PascalsTriangleRow" : "🟢 Easy",
     "DecodeWays" : "🟡 Medium",
-
+    "MergeTwoSortedLists" : "🟢 Easy",
 }
 
 PLATFORM = {
@@ -183,6 +183,7 @@ PLATFORM = {
     "LongestPalindromicSubsequence" : "LeetCode(516)",
     "PascalsTriangleRow" : "LeetCode(119)",
     "DecodeWays" : "LeetCode(91)",
+    "MergeTwoSortedLists" : "LeetCode(21)",
 }
 
 def get_problems():
