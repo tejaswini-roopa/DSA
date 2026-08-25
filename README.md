@@ -78,7 +78,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2 | LRUCache | LeetCode(146) | 🟡 Medium | [View](./LinkedList/LRUCache.java) |
 | 3 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 | 4 | PalindromeLinkedList | LeetCode(234) | 🟡 Medium | [View](./LinkedList/PalindromeLinkedList.java) |
-| 5 | RemoveNthNodeFromEnd | InterviewBit | 🟡 Medium | [View](./LinkedList/RemoveNthNodeFromEnd.java) |
+| 5 | RemoveNthNodeFromEnd | LeetCode(19) | 🟡 Medium | [View](./LinkedList/RemoveNthNodeFromEnd.java) |
 | 6 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 7 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
 
@@ -229,7 +229,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-08-25 | LRUCache | LinkedList | LeetCode(146) |
 | 2026-08-25 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-08-25 | PalindromeLinkedList | LinkedList | LeetCode(234) |
-| 2026-08-25 | RemoveNthNodeFromEnd | LinkedList | InterviewBit |
+| 2026-08-25 | RemoveNthNodeFromEnd | LinkedList | LeetCode(19) |
 | 2026-08-25 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-08-25 | SortList | LinkedList | LeetCode(148) |
 | 2026-08-25 | BalancedParenthesis | Stack | LeetCode(20) |
