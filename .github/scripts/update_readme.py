@@ -96,6 +96,7 @@ DIFFICULTY = {
     "PascalsTriangleRow" : "🟢 Easy",
     "DecodeWays" : "🟡 Medium",
     "MergeTwoSortedLists" : "🟢 Easy",
+    "RemoveNthNodeFromEnd" : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -184,6 +185,7 @@ PLATFORM = {
     "PascalsTriangleRow" : "LeetCode(119)",
     "DecodeWays" : "LeetCode(91)",
     "MergeTwoSortedLists" : "LeetCode(21)",
+    "RemoveNthNodeFromEnd" : "LeetCode(19)",
 }
 
 def get_problems():
