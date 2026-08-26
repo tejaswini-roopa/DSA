@@ -60,7 +60,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | # | Problem | Platform | Difficulty | Solution |
 |---|---------|----------|------------|----------|
 | 1 | InsertInterval | InterviewBit | 🟡 Medium | [View](./Arrays/InsertInterval.java) |
-| 2 | MissingMultiple | InterviewBit | 🟡 Medium | [View](./Arrays/MissingMultiple.java) |
+| 2 | MissingMultiple | LeetCode(2739) | 🟢 Easy | [View](./Arrays/MissingMultiple.java) |
 | 3 | RotateMatrix | InterviewBit | 🟡 Medium | [View](./Arrays/RotateMatrix.java) |
 | 4 | TrappingRainWater | InterviewBit | 🔴 Hard | [View](./Arrays/TrappingRainWater.java) |
 
@@ -220,7 +220,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | Date | Problem | Topic | Platform |
 |------|---------|-------|----------|
 | 2026-08-26 | InsertInterval | Arrays | InterviewBit |
-| 2026-08-26 | MissingMultiple | Arrays | InterviewBit |
+| 2026-08-26 | MissingMultiple | Arrays | LeetCode(2739) |
 | 2026-08-26 | RotateMatrix | Arrays | InterviewBit |
 | 2026-08-26 | TrappingRainWater | Arrays | InterviewBit |
 | 2026-08-26 | BoringSubstring | Strings | InterviewBit |
