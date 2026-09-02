@@ -2,7 +2,6 @@ import java.util.*;
 import java.util.Scanner;
 
 public class InsertInterval {
-
     static class Interval {
         int start;
         int end;
