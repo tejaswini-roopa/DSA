@@ -98,6 +98,7 @@ DIFFICULTY = {
     "MergeTwoSortedLists" : "🟢 Easy",
     "RemoveNthNodeFromEnd" : "🟡 Medium",
     "MissingMultiple" : "🟢 Easy",
+    "UniquePaths" : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -188,6 +189,7 @@ PLATFORM = {
     "MergeTwoSortedLists" : "LeetCode(21)",
     "RemoveNthNodeFromEnd" : "LeetCode(19)",
     "MissingMultiple" : "LeetCode(2739)",
+    "UniquePaths" : "LeetCode(62)",
 }
 
 def get_problems():
