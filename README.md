@@ -139,7 +139,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 11 | PascalsTriangleRow | LeetCode(119) | 🟢 Easy | [View](./DynamicProgramming/PascalsTriangleRow.java) |
 | 12 | UnboundedKnapsack | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UnboundedKnapsack.java) |
 | 13 | UniqueBSTs | LeetCode(96) | 🟡 Medium | [View](./DynamicProgramming/UniqueBSTs.java) |
-| 14 | UniquePaths | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePaths.java) |
+| 14 | UniquePaths | LeetCode(62) | 🟡 Medium | [View](./DynamicProgramming/UniquePaths.java) |
 | 15 | UniquePathsInAGrid | InterviewBit | 🟡 Medium | [View](./DynamicProgramming/UniquePathsInAGrid.java) |
 | 16 | ZeroOneKnapsack | GeeksForGeeks | 🟡 Medium | [View](./DynamicProgramming/ZeroOneKnapsack.java) |
 
@@ -272,7 +272,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-09-09 | PascalsTriangleRow | DynamicProgramming | LeetCode(119) |
 | 2026-09-09 | UnboundedKnapsack | DynamicProgramming | InterviewBit |
 | 2026-09-09 | UniqueBSTs | DynamicProgramming | LeetCode(96) |
-| 2026-09-09 | UniquePaths | DynamicProgramming | InterviewBit |
+| 2026-09-09 | UniquePaths | DynamicProgramming | LeetCode(62) |
 | 2026-09-09 | UniquePathsInAGrid | DynamicProgramming | InterviewBit |
 | 2026-09-09 | ZeroOneKnapsack | DynamicProgramming | GeeksForGeeks |
 | 2026-09-09 | CountRectangles | Hashing | GeeksForGeeks |
