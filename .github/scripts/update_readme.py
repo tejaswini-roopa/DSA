@@ -99,6 +99,8 @@ DIFFICULTY = {
     "RemoveNthNodeFromEnd" : "🟡 Medium",
     "MissingMultiple" : "🟢 Easy",
     "UniquePaths" : "🟡 Medium",
+    "UniquePathsII" : "🟡 Medium",
+
 }
 
 PLATFORM = {
@@ -190,6 +192,7 @@ PLATFORM = {
     "RemoveNthNodeFromEnd" : "LeetCode(19)",
     "MissingMultiple" : "LeetCode(2739)",
     "UniquePaths" : "LeetCode(62)",
+    "UniquePathsII" : "LeetCode(63)",
 }
 
 def get_problems():
