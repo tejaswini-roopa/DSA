@@ -82,7 +82,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 5 | RemoveNthNodeFromEnd | LeetCode(19) | 🟡 Medium | [View](./LinkedList/RemoveNthNodeFromEnd.java) |
 | 6 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 7 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
-| 8 | SwapNodesInPairs | InterviewBit | 🟡 Medium | [View](./LinkedList/SwapNodesInPairs.java) |
+| 8 | SwapNodesInPairs | LeetCode(24) | 🟡 Medium | [View](./LinkedList/SwapNodesInPairs.java) |
 
 ### 📁 Stack
 | # | Problem | Platform | Difficulty | Solution |
@@ -237,7 +237,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-09-13 | RemoveNthNodeFromEnd | LinkedList | LeetCode(19) |
 | 2026-09-13 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-09-13 | SortList | LinkedList | LeetCode(148) |
-| 2026-09-13 | SwapNodesInPairs | LinkedList | InterviewBit |
+| 2026-09-13 | SwapNodesInPairs | LinkedList | LeetCode(24) |
 | 2026-09-13 | BalancedParenthesis | Stack | LeetCode(20) |
 | 2026-09-13 | DoubleCharacterTrouble | Stack | LeetCode(1047) |
 | 2026-09-13 | LargestRectangleInHistogram | Stack | LeetCode(84) |
