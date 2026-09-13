@@ -100,7 +100,7 @@ DIFFICULTY = {
     "MissingMultiple" : "🟢 Easy",
     "UniquePaths" : "🟡 Medium",
     "UniquePathsII" : "🟡 Medium",
-
+    "SwapNodesInPairs" : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -193,6 +193,7 @@ PLATFORM = {
     "MissingMultiple" : "LeetCode(2739)",
     "UniquePaths" : "LeetCode(62)",
     "UniquePathsII" : "LeetCode(63)",
+    "SwapNodesInPairs" : "LeetCode(24)",
 }
 
 def get_problems():
