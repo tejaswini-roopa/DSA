@@ -101,6 +101,7 @@ DIFFICULTY = {
     "UniquePaths" : "🟡 Medium",
     "UniquePathsII" : "🟡 Medium",
     "SwapNodesInPairs" : "🟡 Medium",
+    "RemoveDuplicatesFromSortedListII" : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -194,6 +195,7 @@ PLATFORM = {
     "UniquePaths" : "LeetCode(62)",
     "UniquePathsII" : "LeetCode(63)",
     "SwapNodesInPairs" : "LeetCode(24)",
+    "RemoveDuplicatesFromSortedListII" : "LeetCode(82)",
 }
 
 def get_problems():
