@@ -79,7 +79,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2 | LRUCache | LeetCode(146) | 🟡 Medium | [View](./LinkedList/LRUCache.java) |
 | 3 | LinkedListCycleII | LeetCode(142) | 🟡 Medium | [View](./LinkedList/LinkedListCycleII.java) |
 | 4 | PalindromeLinkedList | LeetCode(234) | 🟡 Medium | [View](./LinkedList/PalindromeLinkedList.java) |
-| 5 | RemoveDuplicatesFromSortedListII | InterviewBit | 🟡 Medium | [View](./LinkedList/RemoveDuplicatesFromSortedListII.java) |
+| 5 | RemoveDuplicatesFromSortedListII | LeetCode(82) | 🟡 Medium | [View](./LinkedList/RemoveDuplicatesFromSortedListII.java) |
 | 6 | RemoveNthNodeFromEnd | LeetCode(19) | 🟡 Medium | [View](./LinkedList/RemoveNthNodeFromEnd.java) |
 | 7 | ReorderList | LeetCode(143) | 🟡 Medium | [View](./LinkedList/ReorderList.java) |
 | 8 | SortList | LeetCode(148) | 🟡 Medium | [View](./LinkedList/SortList.java) |
@@ -235,7 +235,7 @@ Every solution includes clean code with proper naming conventions, comments, and
 | 2026-09-15 | LRUCache | LinkedList | LeetCode(146) |
 | 2026-09-15 | LinkedListCycleII | LinkedList | LeetCode(142) |
 | 2026-09-15 | PalindromeLinkedList | LinkedList | LeetCode(234) |
-| 2026-09-15 | RemoveDuplicatesFromSortedListII | LinkedList | InterviewBit |
+| 2026-09-15 | RemoveDuplicatesFromSortedListII | LinkedList | LeetCode(82) |
 | 2026-09-15 | RemoveNthNodeFromEnd | LinkedList | LeetCode(19) |
 | 2026-09-15 | ReorderList | LinkedList | LeetCode(143) |
 | 2026-09-15 | SortList | LinkedList | LeetCode(148) |
