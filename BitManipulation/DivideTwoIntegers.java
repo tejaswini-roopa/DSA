@@ -5,7 +5,6 @@ public class DivideTwoIntegers {
 
         Scanner scanner = new Scanner(System.in);
 
-        // Taking input
         System.out.print("Enter dividend: ");
         int dividend = scanner.nextInt();
 
