@@ -104,6 +104,7 @@ DIFFICULTY = {
     "RemoveDuplicatesFromSortedListII" : "🟡 Medium",
     "JumpGame" : "🟡 Medium",
     "MergeKSortedLists" : "🔴 Hard",
+    "JumpGameII" : "🟡 Medium",
 }
 
 PLATFORM = {
@@ -200,6 +201,7 @@ PLATFORM = {
     "RemoveDuplicatesFromSortedListII" : "LeetCode(82)",
     "JumpGame" : "LeetCode(55)",
     "MergeKSortedLists" : "LeetCode(23)",
+    "JumpGameII" : "LeetCode(45)",
 }
 
 def get_problems():
