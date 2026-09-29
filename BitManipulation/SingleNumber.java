@@ -1,5 +1,4 @@
 import java.util.*;
-
 class SingleNumberFinder {
     public int singleNumber(final List<Integer> A) {
         int n = A.size();
