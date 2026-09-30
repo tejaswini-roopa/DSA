@@ -367,3 +367,15 @@ Every solution file follows this structure:
 ---
 
 <p align="center">⭐ Star this repo if you find it helpful! Keep grinding 💪</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/tejaswini-roopa/DSA/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/tejaswini-roopa/DSA/tree/master/1768-merge-strings-alternately) |
+<!---LeetCode Topics End-->
