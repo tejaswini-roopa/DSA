@@ -4,7 +4,7 @@ public class InsertInterval {
     static class Interval {
         int start;
         int end;
-
+        
         Interval() {
             start = 0;
             end = 0;
@@ -15,7 +15,8 @@ public class InsertInterval {
             end = e;
         }
     }
-       public static ArrayList<Interval> insert(ArrayList<Interval> intervals, Interval newInterval) {
+      
+    public static ArrayList<Interval> insert(ArrayList<Interval> intervals, Interval newInterval) {
         int n = intervals.size();
         ArrayList<Interval> result = new ArrayList<>();
 
