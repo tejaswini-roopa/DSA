@@ -367,3 +367,19 @@ Every solution file follows this structure:
 ---
 
 <p align="center">⭐ Star this repo if you find it helpful! Keep grinding 💪</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tejaswini-roopa/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tejaswini-roopa/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tejaswini-roopa/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+<!---LeetCode Topics End-->
