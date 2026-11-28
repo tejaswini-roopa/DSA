@@ -367,3 +367,19 @@ Every solution file follows this structure:
 ---
 
 <p align="center">⭐ Star this repo if you find it helpful! Keep grinding 💪</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/tejaswini-roopa/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/tejaswini-roopa/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/tejaswini-roopa/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+<!---LeetCode Topics End-->
